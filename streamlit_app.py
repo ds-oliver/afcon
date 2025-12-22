@@ -21,9 +21,7 @@ def load_data():
     df = pd.read_csv(f"data/afcon_fantasy_market_{round}_with_league_ownership.csv")
     # Convert percentage columns to numeric, handling empty strings
     percentage_cols = ['League Own %', 'League Start %', 'League Cpt %']
-    df = df.fillna(0, inplace=True)
-    for col in percentage_cols:
-        df[col] = pd.to_numeric(df[col], errors='coerce')
+    df = df.fillna(0)
     return df
 
 df = load_data()
