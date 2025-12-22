@@ -29,6 +29,10 @@ def normalize_player_entry(entry: Dict[str, Any]) -> Dict[str, Any]:
     next_start_ts = next_fixture.get("eventStartTimestamp")
     next_fixture_team = next_fixture.get("team") or {}
 
+    # print(next_fixture)
+    # print(next_fixture.get("substitute", None))
+    # print(next_fixture.get("playerFixtureStatus", None))
+    # raise Exception("Stop here")
 
     return {
         "player_id": player.get("id"),
@@ -53,7 +57,7 @@ def normalize_player_entry(entry: Dict[str, Any]) -> Dict[str, Any]:
         "total_players_on_position": fantasy.get("totalPlayersOnPosition"),
         "has_left_competition": fantasy.get("hasLeftCompetition"),
         "round_player_id": entry.get("roundPlayerId"),
-        "round_starter": not next_fixture.get("substitute", True),
+        "round_starter": next_fixture.get("playerFixtureStatus", True),
         "fantasy_id": fantasy.get("id") or entry.get("id"),
         "status": fantasy.get("status"),
         "fixture_difficulty": next_fixture.get("fixtureDifficulty"),

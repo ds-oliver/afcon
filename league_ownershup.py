@@ -105,7 +105,7 @@ round_players['league_owners'] = round_players['player_id'].map(player_owners)
 edited_df = round_players[['name','team','position', 'total_points', 'total_points', 'round_starter', 'owned_percentage', 'league_own_pct', 'league_start_pct', 'league_cpt_pct', 'league_owners', 'event_start_iso_utc']]
 edited_df.columns = ['Player', 'Team', 'Pos', 'Total Points', 'Round Points', 'Round Starter', 'Global Own %', 'League Own %', 'League Start %', 'League Cpt %', 'League Owners', 'Event Start Timestamp']
 
-
+edited_df['Round Starter'] = edited_df['Round Starter'].map({'starter': 1, 'substitute': 0})
 
 edited_df = edited_df.sort_values(by=['League Own %', 'League Start %', 'League Cpt %', 'Global Own %'], ascending=[False, False, False, False])
 

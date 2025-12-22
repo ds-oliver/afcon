@@ -93,7 +93,7 @@ column_config = {
     "League Start %": st.column_config.NumberColumn("League Start %", format="%.1f%%"),
     "League Cpt %": st.column_config.NumberColumn("League Cpt %", format="%.1f%%"),
     "League Owners": st.column_config.TextColumn("League Owners", width="medium"),
-    "Round Starter": st.column_config.TextColumn("Round Starter", width="small"),
+    "Round Starter": st.column_config.NumberColumn("Round Starter", format="%.1f"),
 }
 
 # Prepare dataframe for display
