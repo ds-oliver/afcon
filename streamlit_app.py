@@ -106,7 +106,7 @@ cm2 = sns.diverging_palette(0, 125, s=60, l=85, as_cmap=True)
 # Apply background gradient to percentage columns
 styled_df = display_df.style.background_gradient(
     cmap=cm2,
-    subset=['Global Own %', 'League Own %', 'League Start %', 'League Cpt %']
+    subset=['Global Own %', 'League Own %', 'League Start %', 'League Cpt %', 'Total Points', 'Round Points']
 )
 
 # Display the dataframe
