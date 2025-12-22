@@ -30,6 +30,10 @@ def load_data():
     for col in percentage_cols:
         df[col] = df[col] * 100
     
+    # Parse Event Start Timestamp to datetime (handling UTC format with 'Z')
+    if 'Event Start Timestamp' in df.columns:
+        df['Event Start Timestamp'] = pd.to_datetime(df['Event Start Timestamp'], utc=True) - timedelta(hours=2)
+    
     return df
 
 df = load_data()
@@ -50,7 +54,12 @@ filtered_df = df.copy()
 if selected_position != 'All':
     filtered_df = filtered_df[filtered_df['Pos'] == selected_position]
 if only_current_upcoming_game:
-    filtered_df = filtered_df[(filtered_df['Event Start Timestamp'] > (datetime.now().isoformat() - timedelta(hours=2.5))) & (filtered_df['Event Start Timestamp'] < (datetime.now().isoformat() + timedelta(hours=1)))]
+    # Get current UTC time (timestamps are in UTC format)
+    now_utc = pd.Timestamp.now(tz='UTC')
+    # Filter for events within 2.5 hours before and 1 hour after current time
+    start_time = now_utc - timedelta(hours=2.5)
+    end_time = now_utc + timedelta(hours=1)
+    filtered_df = filtered_df[(filtered_df['Event Start Timestamp'] > start_time) & (filtered_df['Event Start Timestamp'] < end_time)]
 
 # Team filter
 teams = ['All'] + sorted(filtered_df['Team'].dropna().unique().tolist())
