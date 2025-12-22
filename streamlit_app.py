@@ -86,6 +86,7 @@ column_config = {
     "Player": st.column_config.TextColumn("Player", width="medium"),
     "Team": st.column_config.TextColumn("Team", width="small"),
     "Pos": st.column_config.TextColumn("Position", width="small"),
+    "Price": st.column_config.NumberColumn("Price", format="%.1f"),
     "Total Points": st.column_config.NumberColumn("Total Points", format="%.1f"),
     "Round Points": st.column_config.NumberColumn("Round Points", format="%.1f"),
     "Global Own %": st.column_config.NumberColumn("Global Own %", format="%.1f%%"),
@@ -107,7 +108,7 @@ cm2 = sns.diverging_palette(0, 125, s=60, l=85, as_cmap=True)
 # Apply background gradient to percentage columns
 styled_df = display_df.style.background_gradient(
     cmap=cm2,
-    subset=['Global Own %', 'League Own %', 'League Start %', 'League Cpt %', 'Total Points', 'Round Points', 'Rnd Strt']
+    subset=['Global Own %', 'League Own %', 'League Start %', 'League Cpt %', 'Total Points', 'Round Points', 'Rnd Strt', 'Price']
 )
 
 # Display the dataframe

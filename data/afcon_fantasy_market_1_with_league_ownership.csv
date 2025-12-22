@@ -1,660 +1,660 @@
-Player,Team,Pos,Total Points,Round Points,Rnd Strt,Global Own %,League Own %,League Start %,League Cpt %,League Owners,Event Start Timestamp
-Iliman Ndiaye,Senegal,M,,,,17.0,0.8333333333333334,0.6666666666666666,,"['Allardyced', 'BafanaBhoys', 'Bantah Boyz', 'CôteIvoriehasnoelephants', 'Espresso All Stars', 'EvanRh', 'Kingozil', 'Little Bonne-key', 'Wernham Hogpile', ""Where's Your Wissa Gone""]",2025-12-23T15:00:00Z
-Victor Osimhen,Nigeria,F,,,,42.9,0.75,0.6666666666666666,,"['Allardyced', 'Bantah Boyz', 'CôteIvoriehasnoelephants', 'Draftalchemy', 'EvanRh', 'Kingozil', ""Matt's Afrikaaners"", 'Wernham Hogpile', ""Where's Your Wissa Gone""]",2025-12-23T17:30:00Z
-Stanley Nwabali,Nigeria,G,,,,11.5,0.6666666666666666,,,"['Allardyced', 'Bantah Boyz', 'CôteIvoriehasnoelephants', 'EvanRh', 'Kingozil', ""Matt's Afrikaaners"", 'Wernham Hogpile', ""Where's Your Wissa Gone""]",2025-12-23T17:30:00Z
-Bono,Morocco,G,7.0,7.0,1.0,56.0,0.5833333333333334,0.5833333333333334,,"['Allardyced', 'Bantah Boyz', 'CôteIvoriehasnoelephants', 'Espresso All Stars', 'EvanRh', 'Wernham Hogpile', ""Where's Your Wissa Gone""]",2025-12-21T19:00:00Z
-Brahim Díaz,Morocco,M,11.0,11.0,1.0,20.6,0.5,0.5,0.3333333333333333,"['Allardyced', 'BafanaBhoys', 'Bantah Boyz', 'Kingozil', ""Matt's Afrikaaners"", 'Wernham Hogpile']",2025-12-21T19:00:00Z
-Kamory Doumbia,Mali,M,2.0,2.0,1.0,2.2,0.4166666666666667,0.4166666666666667,0.16666666666666666,"['Allardyced', 'CôteIvoriehasnoelephants', 'Kingozil', 'Wernham Hogpile', ""Where's Your Wissa Gone""]",2025-12-22T14:00:00Z
-Kalidou Koulibaly,Senegal,D,,,,31.1,0.4166666666666667,0.4166666666666667,,"['Bantah Boyz', 'CôteIvoriehasnoelephants', 'EvanRh', 'Wernham Hogpile', ""Where's Your Wissa Gone""]",2025-12-23T15:00:00Z
-Sadio Mané,Senegal,M,,,,29.2,0.4166666666666667,0.4166666666666667,,"['Allardyced', 'CôteIvoriehasnoelephants', 'EvanRh', 'Kingozil', ""Where's Your Wissa Gone""]",2025-12-23T15:00:00Z
-Amadou Dante,Mali,D,4.0,4.0,1.0,7.5,0.4166666666666667,0.3333333333333333,,"['Allardyced', 'CôteIvoriehasnoelephants', 'EvanRh', 'Kingozil', ""Where's Your Wissa Gone""]",2025-12-22T14:00:00Z
-Ali Abdi,Tunisia,M,,,,6.5,0.3333333333333333,0.3333333333333333,,"['Bantah Boyz', 'CôteIvoriehasnoelephants', 'Kingozil', ""Where's Your Wissa Gone""]",2025-12-23T20:00:00Z
-Romain Saïss,Morocco,D,1.0,1.0,1.0,6.0,0.3333333333333333,0.08333333333333333,,"['Allardyced', 'CôteIvoriehasnoelephants', 'EvanRh', ""Where's Your Wissa Gone""]",2025-12-21T19:00:00Z
-Azzedine Ounahi,Morocco,M,5.0,5.0,1.0,11.0,0.25,0.25,0.08333333333333333,"['CôteIvoriehasnoelephants', 'Draftalchemy', ""Where's Your Wissa Gone""]",2025-12-21T19:00:00Z
-Achraf Hakimi,Morocco,D,0.0,0.0,0.0,33.1,0.25,0.25,,"['BafanaBhoys', 'Bantah Boyz', ""Matt's Afrikaaners""]",2025-12-21T19:00:00Z
-Riyad Mahrez,Algeria,M,,,,17.1,0.25,0.25,,"['Allardyced', 'EvanRh', 'Wernham Hogpile']",2025-12-24T15:00:00Z
-Ademola Lookman,Nigeria,F,,,,9.4,0.25,0.25,,"['BafanaBhoys', 'Espresso All Stars', 'Little Bonne-key']",2025-12-23T17:30:00Z
-Luca Zidane,Algeria,G,,,,5.3,0.25,0.25,,"['BafanaBhoys', 'Little Bonne-key', ""Matt's Afrikaaners""]",2025-12-24T15:00:00Z
-Bryan Mbeumo,Cameroon,M,,,,26.1,0.25,0.16666666666666666,0.08333333333333333,"['Draftalchemy', 'Espresso All Stars', 'Little Bonne-key']",2025-12-24T20:00:00Z
-Ramy Bensebaini,Algeria,D,,,,10.5,0.25,0.16666666666666666,0.08333333333333333,"['Bantah Boyz', 'CôteIvoriehasnoelephants', 'Little Bonne-key']",2025-12-24T15:00:00Z
-Franck Kessié,Côte d'Ivoire,M,,,,9.2,0.25,0.16666666666666666,,"['CôteIvoriehasnoelephants', 'Kingozil', ""Where's Your Wissa Gone""]",2025-12-24T17:30:00Z
-Mohamed Salah,Egypt,M,,,,32.2,0.16666666666666666,0.16666666666666666,0.08333333333333333,"['EvanRh', ""Matt's Afrikaaners""]",2025-12-22T20:00:00Z
-Amad Diallo,Côte d'Ivoire,F,,,,23.3,0.16666666666666666,0.16666666666666666,,"['Espresso All Stars', 'Little Bonne-key']",2025-12-24T17:30:00Z
-Noussair Mazraoui,Morocco,D,12.0,12.0,1.0,9.4,0.16666666666666666,0.16666666666666666,,"['Little Bonne-key', ""Matt's Afrikaaners""]",2025-12-21T19:00:00Z
-Nayef Aguerd,Morocco,D,8.0,8.0,1.0,8.5,0.16666666666666666,0.16666666666666666,,"['Espresso All Stars', 'Kingozil']",2025-12-21T19:00:00Z
-Pape Matar Sarr,Senegal,M,,,,8.3,0.16666666666666666,0.16666666666666666,,"['BafanaBhoys', 'Little Bonne-key']",2025-12-23T15:00:00Z
-Nicolas Jackson,Senegal,F,,,,7.4,0.16666666666666666,0.16666666666666666,,"['Bantah Boyz', 'Little Bonne-key']",2025-12-23T15:00:00Z
-Mamadou Sarr,Senegal,D,,,,6.6,0.16666666666666666,0.16666666666666666,,"['BafanaBhoys', 'Kingozil']",2025-12-23T15:00:00Z
-Marvelous Nakamba,Zimbabwe,M,,,,3.2,0.16666666666666666,0.16666666666666666,,"['Bantah Boyz', 'EvanRh']",2025-12-22T20:00:00Z
-Baghdad Bounedjah,Algeria,F,,,,2.1,0.16666666666666666,0.08333333333333333,,"['Allardyced', 'BafanaBhoys']",2025-12-24T15:00:00Z
-Hazem Mastouri,Tunisia,F,,,,1.8,0.16666666666666666,0.08333333333333333,,"['Allardyced', ""Where's Your Wissa Gone""]",2025-12-23T20:00:00Z
-Mbekezeli Mbokazi,South Africa,D,1.0,1.0,1.0,1.8,0.16666666666666666,0.08333333333333333,,"['Allardyced', 'BafanaBhoys']",2025-12-22T17:00:00Z
-Samir Sophian Chergui,Algeria,D,,,,1.1,0.16666666666666666,0.08333333333333333,,"['Allardyced', 'Kingozil']",2025-12-24T15:00:00Z
-Soufiane Rahimi,Morocco,F,-3.0,-3.0,1.0,6.5,0.16666666666666666,,,"['EvanRh', 'Kingozil']",2025-12-21T19:00:00Z
-Teboho Mokoena,South Africa,M,2.0,2.0,1.0,6.9,0.08333333333333333,0.08333333333333333,0.08333333333333333,['EvanRh'],2025-12-22T17:00:00Z
-Lassine Sinayoko,Mali,F,10.0,10.0,1.0,1.4,0.08333333333333333,0.08333333333333333,0.08333333333333333,['Draftalchemy'],2025-12-22T14:00:00Z
-Omar Marmoush,Egypt,F,,,,22.0,0.08333333333333333,0.08333333333333333,,"[""Matt's Afrikaaners""]",2025-12-22T20:00:00Z
-Mohamed Amoura,Algeria,F,,,,9.9,0.08333333333333333,0.08333333333333333,,['Wernham Hogpile'],2025-12-24T15:00:00Z
-Calvin Bassey,Nigeria,D,,,,9.8,0.08333333333333333,0.08333333333333333,,['BafanaBhoys'],2025-12-23T17:30:00Z
-Edmond Tapsoba,Burkina Faso,D,,,,9.4,0.08333333333333333,0.08333333333333333,,['Espresso All Stars'],2025-12-24T12:30:00Z
-Shandre Campbell,South Africa,M,0.0,0.0,0.0,9.2,0.08333333333333333,0.08333333333333333,,['Bantah Boyz'],2025-12-22T17:00:00Z
-Mohamed Hany,Egypt,D,,,,8.8,0.08333333333333333,0.08333333333333333,,['EvanRh'],2025-12-22T20:00:00Z
-Anass Salah-Eddine,Morocco,D,15.0,15.0,1.0,7.1,0.08333333333333333,0.08333333333333333,,['Draftalchemy'],2025-12-21T19:00:00Z
-Semi Ajayi,Nigeria,D,,,,6.4,0.08333333333333333,0.08333333333333333,,['Draftalchemy'],2025-12-23T17:30:00Z
-Ousmane Camara,Mali,D,0.0,0.0,0.0,6.1,0.08333333333333333,0.08333333333333333,,['Espresso All Stars'],2025-12-22T14:00:00Z
-Jawad El Yamiq,Morocco,D,8.0,8.0,0.0,5.6,0.08333333333333333,0.08333333333333333,,['Wernham Hogpile'],2025-12-21T19:00:00Z
-Moussa Niakhaté,Senegal,D,,,,5.4,0.08333333333333333,0.08333333333333333,,['Draftalchemy'],2025-12-23T15:00:00Z
-Mohamed Hamdi,Egypt,D,,,,5.3,0.08333333333333333,0.08333333333333333,,['Bantah Boyz'],2025-12-22T20:00:00Z
-Mabululu,Angola,F,0.0,0.0,0.0,5.1,0.08333333333333333,0.08333333333333333,,['CôteIvoriehasnoelephants'],2025-12-22T17:00:00Z
-Ismael Saibari,Morocco,M,4.0,4.0,1.0,5.0,0.08333333333333333,0.08333333333333333,,['Little Bonne-key'],2025-12-21T19:00:00Z
-Oswin Appollis,South Africa,M,7.0,7.0,1.0,4.6,0.08333333333333333,0.08333333333333333,,['Bantah Boyz'],2025-12-22T17:00:00Z
-Noah Sadiki,DR Congo,M,,,,3.9,0.08333333333333333,0.08333333333333333,,['Espresso All Stars'],2025-12-23T12:30:00Z
-Ousmane Diomande,Côte d'Ivoire,D,,,,3.9,0.08333333333333333,0.08333333333333333,,['Little Bonne-key'],2025-12-24T17:30:00Z
-Houssem Aouar,Algeria,M,,,,3.5,0.08333333333333333,0.08333333333333333,,['BafanaBhoys'],2025-12-24T15:00:00Z
-Zaidu Sanusi,Nigeria,D,,,,3.4,0.08333333333333333,0.08333333333333333,,"[""Where's Your Wissa Gone""]",2025-12-23T17:30:00Z
-Elias Achouri,Tunisia,M,,,,3.2,0.08333333333333333,0.08333333333333333,,"[""Matt's Afrikaaners""]",2025-12-23T20:00:00Z
-Lamine Camara,Senegal,M,,,,2.8,0.08333333333333333,0.08333333333333333,,['Draftalchemy'],2025-12-23T15:00:00Z
-Dango Ouattara,Burkina Faso,F,,,,2.7,0.08333333333333333,0.08333333333333333,,['BafanaBhoys'],2025-12-24T12:30:00Z
-Ayoub El Kaabi,Morocco,F,6.0,6.0,0.0,2.5,0.08333333333333333,0.08333333333333333,,['Draftalchemy'],2025-12-21T19:00:00Z
-Nouhou Tolo,Cameroon,D,,,,2.5,0.08333333333333333,0.08333333333333333,,['BafanaBhoys'],2025-12-24T20:00:00Z
-Samuel Essende,DR Congo,F,,,,2.3,0.08333333333333333,0.08333333333333333,,['Espresso All Stars'],2025-12-23T12:30:00Z
-Matthieu Epolo,DR Congo,G,,,,1.6,0.08333333333333333,0.08333333333333333,,['Draftalchemy'],2025-12-23T12:30:00Z
-Adem Arous,Tunisia,D,,,,1.2,0.08333333333333333,0.08333333333333333,,['Draftalchemy'],2025-12-23T20:00:00Z
-Gelson Dala,Angola,F,1.0,1.0,1.0,0.9,0.08333333333333333,0.08333333333333333,,['Wernham Hogpile'],2025-12-22T17:00:00Z
-Javier Mum,Equatorial Guinea,D,,,,0.7,0.08333333333333333,0.08333333333333333,,"[""Matt's Afrikaaners""]",2025-12-24T12:30:00Z
-Kenneth Semakula,Uganda,M,,,,0.6,0.08333333333333333,0.08333333333333333,,"[""Matt's Afrikaaners""]",2025-12-23T20:00:00Z
-Ebenezer Akinsanmiro,Nigeria,M,,,,0.5,0.08333333333333333,0.08333333333333333,,['Draftalchemy'],2025-12-23T17:30:00Z
-Marcel Dandjinou,Benin,G,,,,0.5,0.08333333333333333,0.08333333333333333,,['Kingozil'],2025-12-23T12:30:00Z
-Kennedy Musonda,Zambia,F,1.0,1.0,0.0,0.3,0.08333333333333333,0.08333333333333333,,['Bantah Boyz'],2025-12-22T14:00:00Z
-Jonathan Do Marcolino,Gabon,D,,,,0.3,0.08333333333333333,0.08333333333333333,,"[""Matt's Afrikaaners""]",2025-12-24T20:00:00Z
-Altayeb Abaker,Sudan,D,,,,0.3,0.08333333333333333,0.08333333333333333,,['Espresso All Stars'],2025-12-24T15:00:00Z
-Teenage Hadebe,Zimbabwe,D,,,,0.2,0.08333333333333333,0.08333333333333333,,['Wernham Hogpile'],2025-12-22T20:00:00Z
-Edouard Mendy,Senegal,G,,,,21.1,0.08333333333333333,,,['Espresso All Stars'],2025-12-23T15:00:00Z
-Hervé Koffi,Burkina Faso,G,,,,13.3,0.08333333333333333,,,['Draftalchemy'],2025-12-24T12:30:00Z
-Mohamed Tougai,Algeria,D,,,,7.9,0.08333333333333333,,,['Wernham Hogpile'],2025-12-24T15:00:00Z
-Steven Mukwala,Uganda,F,,,,2.7,0.08333333333333333,,,['CôteIvoriehasnoelephants'],2025-12-23T20:00:00Z
-Dylan Bronn,Tunisia,D,,,,2.5,0.08333333333333333,,,['Wernham Hogpile'],2025-12-23T20:00:00Z
-Nasser Djiga,Burkina Faso,D,,,,2.2,0.08333333333333333,,,['Draftalchemy'],2025-12-24T12:30:00Z
-Emilio Nsue,Equatorial Guinea,F,,,,2.0,0.08333333333333333,,,"[""Where's Your Wissa Gone""]",2025-12-24T12:30:00Z
-Shomari Kapombe,Tanzania,D,,,,2.0,0.08333333333333333,,,['EvanRh'],2025-12-23T17:30:00Z
-Ilan Kebbal,Algeria,M,,,,1.9,0.08333333333333333,,,['Draftalchemy'],2025-12-24T15:00:00Z
-Hamza Igamane,Morocco,F,,,,1.7,0.08333333333333333,,,['Espresso All Stars'],2025-12-21T19:00:00Z
-Georges-Kévin N'Koudou,Cameroon,M,,,,1.6,0.08333333333333333,,,['Espresso All Stars'],2025-12-24T20:00:00Z
-David Owori,Uganda,M,,,,1.4,0.08333333333333333,,,"[""Matt's Afrikaaners""]",2025-12-23T20:00:00Z
-Novatus Miroshi,Tanzania,M,,,,1.2,0.08333333333333333,,,['Wernham Hogpile'],2025-12-23T17:30:00Z
-Shanganani Nganda,Botswana,D,,,,1.2,0.08333333333333333,,,['Espresso All Stars'],2025-12-23T15:00:00Z
-Frankie Musonda,Zambia,D,0.0,0.0,0.0,1.1,0.08333333333333333,,,['Little Bonne-key'],2025-12-22T14:00:00Z
-Dickson Job,Tanzania,D,,,,0.8,0.08333333333333333,,,"[""Matt's Afrikaaners""]",2025-12-23T17:30:00Z
-Manuel Benson,Angola,M,0.0,0.0,0.0,0.7,0.08333333333333333,,,['BafanaBhoys'],2025-12-22T17:00:00Z
-Yakoub Suleiman,Tanzania,G,,,,0.7,0.08333333333333333,,,['BafanaBhoys'],2025-12-23T17:30:00Z
-Iban Salvador,Equatorial Guinea,F,,,,0.6,0.08333333333333333,,,['Kingozil'],2025-12-24T12:30:00Z
-Basilio Ndong,Equatorial Guinea,D,,,,0.3,0.08333333333333333,,,['Allardyced'],2025-12-24T12:30:00Z
-Sessi D'Almeida,Benin,M,,,,0.3,0.08333333333333333,,,"[""Matt's Afrikaaners""]",2025-12-23T12:30:00Z
-Brendan Galloway,Zimbabwe,D,,,,0.3,0.08333333333333333,,,['Little Bonne-key'],2025-12-22T20:00:00Z
-Macauley Bonne,Zimbabwe,F,,,,0.3,0.08333333333333333,,,['Little Bonne-key'],2025-12-22T20:00:00Z
-Adebiyi Marcel Serge Obassa,Benin,G,,,,0.2,0.08333333333333333,,,['Little Bonne-key'],2025-12-23T12:30:00Z
-Ronwen Williams,South Africa,G,4.0,4.0,1.0,18.2,,,,,2025-12-22T17:00:00Z
-Rayan Aït-Nouri,Algeria,M,,,,17.3,,,,,2025-12-24T15:00:00Z
-Mohamed El-Shenawy,Egypt,G,,,,15.4,,,,,2025-12-22T20:00:00Z
-Aaron Wan-Bissaka,DR Congo,D,,,,15.2,,,,,2025-12-23T12:30:00Z
-Chancel Mbemba,DR Congo,D,,,,12.7,,,,,2025-12-23T12:30:00Z
-Yves Bissouma,Mali,M,,,,10.9,,,,,2025-12-22T14:00:00Z
-Guéla Doué,Côte d'Ivoire,D,,,,10.4,,,,,2025-12-24T17:30:00Z
-Yahia Fofana,Côte d'Ivoire,G,,,,8.7,,,,,2025-12-24T17:30:00Z
-Emam Ashour,Egypt,M,,,,8.5,,,,,2025-12-22T20:00:00Z
-Aïssa Mandi,Algeria,D,,,,8.4,,,,,2025-12-24T15:00:00Z
-Pierre-Emerick Aubameyang,Gabon,F,,,,8.0,,,,,2025-12-24T20:00:00Z
-Youssef En-Nesyri,Morocco,F,2.0,2.0,0.0,7.9,,,,,2025-12-21T19:00:00Z
-Arthur Masuaku,DR Congo,D,,,,7.9,,,,,2025-12-23T12:30:00Z
-Axel Tuanzebe,DR Congo,D,,,,7.7,,,,,2025-12-23T12:30:00Z
-Issa Kaboré,Burkina Faso,D,,,,7.5,,,,,2025-12-24T12:30:00Z
-Alex Iwobi,Nigeria,M,,,,6.7,,,,,2025-12-23T17:30:00Z
-Ismaïla Sarr,Senegal,F,,,,6.6,,,,,2025-12-23T15:00:00Z
-Fiston Mayele,DR Congo,F,,,,6.3,,,,,2025-12-23T12:30:00Z
-Evan Ndicka,Côte d'Ivoire,D,,,,6.2,,,,,2025-12-24T17:30:00Z
-Saúl Coco,Equatorial Guinea,D,,,,6.0,,,,,2025-12-24T12:30:00Z
-David Carmo,Angola,D,0.0,0.0,0.0,5.7,,,,,2025-12-22T17:00:00Z
-Ahmed Fatouh,Egypt,D,,,,5.6,,,,,2025-12-22T20:00:00Z
-Khuliso Mudau,South Africa,D,1.0,1.0,1.0,5.5,,,,,2025-12-22T17:00:00Z
-Youcef Atal,Algeria,D,,,,5.4,,,,,2025-12-24T15:00:00Z
-Darlin Yongwa,Cameroon,D,,,,5.3,,,,,2025-12-24T20:00:00Z
-Aaron Appindangoyé,Gabon,D,,,,5.3,,,,,2025-12-24T20:00:00Z
-Sébastien Haller,Côte d'Ivoire,F,,,,5.2,,,,,2025-12-24T17:30:00Z
-Carlos Baleba,Cameroon,M,,,,5.1,,,,,2025-12-24T20:00:00Z
-Reinildo Mandava,Mozambique,D,,,,5.1,,,,,2025-12-24T17:30:00Z
-Abdelhamid Ait Boudlal,Morocco,D,0.0,0.0,0.0,4.8,,,,,2025-12-21T19:00:00Z
-Zizo,Egypt,M,,,,4.7,,,,,2025-12-22T20:00:00Z
-Sofyan Amrabat,Morocco,M,5.0,5.0,1.0,4.6,,,,,2025-12-21T19:00:00Z
-Montassar Talbi,Tunisia,D,,,,4.6,,,,,2025-12-23T20:00:00Z
-Ali Maâloul,Tunisia,D,,,,4.6,,,,,2025-12-23T20:00:00Z
-Cédric Bakambu,DR Congo,F,,,,4.5,,,,,2025-12-23T12:30:00Z
-Abdessamad Ezzalzouli,Morocco,M,2.0,2.0,0.0,4.4,,,,,2025-12-21T19:00:00Z
-Idrissa Gueye,Senegal,M,,,,4.4,,,,,2025-12-23T15:00:00Z
-Kabelo Dambe,Botswana,G,,,,4.4,,,,,2025-12-23T15:00:00Z
-Hannibal Mejbri,Tunisia,M,,,,4.3,,,,,2025-12-23T20:00:00Z
-Samuel Chukwueze,Nigeria,F,,,,4.2,,,,,2025-12-23T17:30:00Z
-Mahmoud Trézéguet,Egypt,M,,,,4.2,,,,,2025-12-22T20:00:00Z
-Ibrahim Maza,Algeria,M,,,,4.2,,,,,2025-12-24T15:00:00Z
-Ellyes Skhiri,Tunisia,M,,,,4.1,,,,,2025-12-23T20:00:00Z
-El Hadji Malick Diouf,Senegal,M,,,,4.1,,,,,2025-12-23T15:00:00Z
-Emmanuel Agbadou,Côte d'Ivoire,D,,,,4.0,,,,,2025-12-24T17:30:00Z
-Yan Diomande,Côte d'Ivoire,F,,,,3.9,,,,,2025-12-24T17:30:00Z
-Amadou Haidara,Mali,M,0.0,0.0,0.0,3.9,,,,,2025-12-22T14:00:00Z
-Seko Fofana,Côte d'Ivoire,M,,,,3.8,,,,,2025-12-24T17:30:00Z
-Gedeon Kalulu,DR Congo,D,,,,3.8,,,,,2025-12-23T12:30:00Z
-Théo Bongonda,DR Congo,M,,,,3.7,,,,,2025-12-23T12:30:00Z
-Elias Saad,Tunisia,F,,,,3.7,,,,,2025-12-23T20:00:00Z
-Ismaël Bennacer,Algeria,M,,,,3.6,,,,,2025-12-24T15:00:00Z
-Wilfred Ndidi,Nigeria,M,,,,3.6,,,,,2025-12-23T17:30:00Z
-Ibrahima Sissoko,Mali,M,0.0,0.0,0.0,3.5,,,,,2025-12-22T14:00:00Z
-Ismail Jakobs,Senegal,D,,,,3.5,,,,,2025-12-23T15:00:00Z
-Wilfried Zaha,Côte d'Ivoire,M,,,,3.4,,,,,2025-12-24T17:30:00Z
-Rami Rabia,Egypt,D,,,,3.4,,,,,2025-12-22T20:00:00Z
-Aliou Dieng,Mali,M,1.0,1.0,1.0,3.4,,,,,2025-12-22T14:00:00Z
-Lassana Coulibaly,Mali,M,0.0,0.0,0.0,3.4,,,,,2025-12-22T14:00:00Z
-Chidera Ejuke,Nigeria,M,,,,3.4,,,,,2025-12-23T17:30:00Z
-Ghislain Konan,Côte d'Ivoire,D,,,,3.4,,,,,2025-12-24T17:30:00Z
-Chicco Molefe,Botswana,D,,,,3.4,,,,,2025-12-23T15:00:00Z
-Raphael Onyedika,Nigeria,M,,,,3.3,,,,,2025-12-23T17:30:00Z
-Fredy,Angola,M,7.0,7.0,1.0,3.2,,,,,2025-12-22T17:00:00Z
-Aymen Dahmen,Tunisia,G,,,,3.2,,,,,2025-12-23T20:00:00Z
-Odilon Kossounou,Côte d'Ivoire,D,,,,3.1,,,,,2025-12-24T17:30:00Z
-Lyle Foster,South Africa,F,5.0,5.0,1.0,3.1,,,,,2025-12-22T17:00:00Z
-Flavien Boyomo,Cameroon,D,,,,3.1,,,,,2025-12-24T20:00:00Z
-Etta Eyong,Cameroon,F,,,,3.1,,,,,2025-12-24T20:00:00Z
-Chemsdine Talbi,Morocco,M,0.0,0.0,0.0,3.1,,,,,2025-12-21T19:00:00Z
-Seifeddine Jaziri,Tunisia,F,,,,3.0,,,,,2025-12-23T20:00:00Z
-Assane Diao,Senegal,F,,,,3.0,,,,,2025-12-23T15:00:00Z
-Yan Valery,Tunisia,D,,,,3.0,,,,,2025-12-23T20:00:00Z
-Mostafa Mohamed,Egypt,F,,,,2.9,,,,,2025-12-22T20:00:00Z
-Ilias Akhomach,Morocco,M,0.0,0.0,0.0,2.9,,,,,2025-12-21T19:00:00Z
-Christ Inao Oulaï,Côte d'Ivoire,M,,,,2.9,,,,,2025-12-24T17:30:00Z
-Boulaye Dia,Senegal,F,,,,2.9,,,,,2025-12-23T15:00:00Z
-Sikou Niakaté,Mali,D,,,,2.9,,,,,2025-12-22T14:00:00Z
-Jaouen Hadjam,Algeria,D,,,,2.9,,,,,2025-12-24T15:00:00Z
-Bright Osayi-Samuel,Nigeria,D,,,,2.9,,,,,2025-12-23T17:30:00Z
-Clinton Mata,Angola,D,1.0,1.0,1.0,2.8,,,,,2025-12-22T17:00:00Z
-Mohamed Ali Ben Romdhane,Tunisia,M,,,,2.8,,,,,2025-12-23T20:00:00Z
-Paul Onuachu,Nigeria,F,,,,2.8,,,,,2025-12-23T17:30:00Z
-Omar Mascarell,Equatorial Guinea,M,,,,2.8,,,,,2025-12-24T12:30:00Z
-Simon Banza,DR Congo,F,,,,2.8,,,,,2025-12-23T12:30:00Z
-Christian Bassogog,Cameroon,M,,,,2.8,,,,,2025-12-24T20:00:00Z
-Fisayo Dele-Bashiru,Nigeria,M,,,,2.8,,,,,2025-12-23T17:30:00Z
-Jim Allevinah,Gabon,M,,,,2.8,,,,,2025-12-24T20:00:00Z
-Losika Ratshukudu,Botswana,M,,,,2.8,,,,,2025-12-23T15:00:00Z
-Habib Diallo,Senegal,F,,,,2.7,,,,,2025-12-23T15:00:00Z
-Cherif Ndiaye,Senegal,F,,,,2.7,,,,,2025-12-23T15:00:00Z
-Jean-Philippe Gbamin,Côte d'Ivoire,M,,,,2.7,,,,,2025-12-24T17:30:00Z
-Junior Dina Ebimbe,Cameroon,M,,,,2.7,,,,,2025-12-24T20:00:00Z
-Michel Ange Balikwisha,DR Congo,M,,,,2.7,,,,,2025-12-23T12:30:00Z
-Christopher Wooh,Cameroon,D,,,,2.7,,,,,2025-12-24T20:00:00Z
-Ibrahim Sangaré,Côte d'Ivoire,M,,,,2.6,,,,,2025-12-24T17:30:00Z
-Rafiki Saïd,Comoros,M,2.0,2.0,1.0,2.6,,,,,2025-12-21T19:00:00Z
-Show,Angola,M,7.0,7.0,1.0,2.6,,,,,2025-12-22T17:00:00Z
-Zito Luvumbo,Angola,F,0.0,0.0,1.0,2.6,,,,,2025-12-22T17:00:00Z
-Monsef Bakrar,Algeria,F,,,,2.6,,,,,2025-12-24T15:00:00Z
-Malick Evouna,Gabon,M,,,,2.6,,,,,2025-12-24T20:00:00Z
-Patson Daka,Zambia,F,8.0,8.0,1.0,2.6,,,,,2025-12-22T14:00:00Z
-Aubrey Modiba,South Africa,D,2.0,2.0,1.0,2.6,,,,,2025-12-22T17:00:00Z
-Joris Kayembe,DR Congo,D,,,,2.6,,,,,2025-12-23T12:30:00Z
-Issoufou Dayo,Burkina Faso,D,,,,2.6,,,,,2025-12-24T12:30:00Z
-Houssem Teka,Tunisia,M,,,,2.6,,,,,2025-12-23T20:00:00Z
-Kialonda Gaspar,Angola,D,0.0,0.0,1.0,2.5,,,,,2025-12-22T17:00:00Z
-Pape Gueye,Senegal,M,,,,2.4,,,,,2025-12-23T15:00:00Z
-Mohanad Lasheen,Egypt,M,,,,2.4,,,,,2025-12-22T20:00:00Z
-Zini,Angola,F,,,,2.4,,,,,2025-12-22T17:00:00Z
-Siyabonga Ngezana,South Africa,D,0.0,0.0,1.0,2.4,,,,,2025-12-22T17:00:00Z
-Adil Boulbina,Algeria,M,,,,2.3,,,,,2025-12-24T15:00:00Z
-Jean-Charles Castelletto,Cameroon,D,,,,2.3,,,,,2025-12-24T20:00:00Z
-Bruno Onyemaechi,Nigeria,D,,,,2.3,,,,,2025-12-23T17:30:00Z
-Alban Lafont,Côte d'Ivoire,G,,,,2.3,,,,,2025-12-24T17:30:00Z
-Hamari Traoré,Mali,D,0.0,0.0,0.0,2.2,,,,,2025-12-22T14:00:00Z
-Lionel M'Pasi,DR Congo,G,,,,2.2,,,,,2025-12-23T12:30:00Z
-Willy Boly,Côte d'Ivoire,D,,,,2.2,,,,,2025-12-24T17:30:00Z
-Mario Lemina,Gabon,M,,,,2.1,,,,,2025-12-24T20:00:00Z
-Steeve Yago,Burkina Faso,D,,,,2.1,,,,,2025-12-24T12:30:00Z
-Evann Guessand,Côte d'Ivoire,F,,,,2.1,,,,,2025-12-24T17:30:00Z
-Redouane Berkane,Algeria,F,,,,2.1,,,,,2025-12-24T15:00:00Z
-Eliesse Ben Seghir,Morocco,M,0.0,0.0,0.0,2.0,,,,,2025-12-21T19:00:00Z
-Farès Chaïbi,Algeria,M,,,,2.0,,,,,2025-12-24T15:00:00Z
-Adam Masina,Morocco,D,0.0,0.0,0.0,2.0,,,,,2025-12-21T19:00:00Z
-Relebohile Mofokeng,South Africa,M,0.0,0.0,0.0,2.0,,,,,2025-12-22T17:00:00Z
-Yasser Ibrahim,Egypt,D,,,,2.0,,,,,2025-12-22T20:00:00Z
-Frank Onyeka,Nigeria,M,,,,1.9,,,,,2025-12-23T17:30:00Z
-Jacques Ekomie,Gabon,D,,,,1.9,,,,,2025-12-24T20:00:00Z
-Rocky Bushiri Kiranga,DR Congo,D,,,,1.9,,,,,2025-12-23T12:30:00Z
-Djigui Diarra,Mali,G,1.0,1.0,1.0,1.9,,,,,2025-12-22T14:00:00Z
-Mohamed Camara,Mali,M,0.0,0.0,0.0,1.9,,,,,2025-12-22T14:00:00Z
-Ismael Gharbi,Tunisia,M,,,,1.8,,,,,2025-12-23T20:00:00Z
-Jonathan Buatu,Angola,D,1.0,1.0,1.0,1.8,,,,,2025-12-22T17:00:00Z
-Junior Tchamadeu,Cameroon,D,,,,1.8,,,,,2025-12-24T20:00:00Z
-Bruno Ecuele Manga,Gabon,D,,,,1.8,,,,,2025-12-24T20:00:00Z
-Dorgeles Nene,Mali,F,6.0,6.0,1.0,1.7,,,,,2025-12-22T14:00:00Z
-Oumar Diakité,Côte d'Ivoire,F,,,,1.7,,,,,2025-12-24T17:30:00Z
-Mohau Nkota,South Africa,M,1.0,1.0,1.0,1.7,,,,,2025-12-22T17:00:00Z
-Gustavo Sangaré,Burkina Faso,M,,,,1.7,,,,,2025-12-24T12:30:00Z
-Pathé Ismaël Ciss,Senegal,M,,,,1.7,,,,,2025-12-23T15:00:00Z
-Ibrahim Blati Tourè,Burkina Faso,M,,,,1.7,,,,,2025-12-24T12:30:00Z
-Yassine Meriah,Tunisia,D,,,,1.7,,,,,2025-12-23T20:00:00Z
-Mostafa Shobeir,Egypt,G,,,,1.7,,,,,2025-12-22T20:00:00Z
-Elias Mrugau Maguli,Tanzania,F,,,,1.7,,,,,2025-12-23T17:30:00Z
-Bertrand Traoré,Burkina Faso,F,,,,1.6,,,,,2025-12-24T12:30:00Z
-Ibrahim Mbaye,Senegal,F,,,,1.6,,,,,2025-12-23T15:00:00Z
-Ferjani Sassi,Tunisia,M,,,,1.6,,,,,2025-12-23T20:00:00Z
-Moses Simon,Nigeria,F,,,,1.6,,,,,2025-12-23T17:30:00Z
-Krépin Diatta,Senegal,M,,,,1.6,,,,,2025-12-23T15:00:00Z
-Samuel Moutoussamy,DR Congo,M,,,,1.6,,,,,2025-12-23T12:30:00Z
-Abdelrazig Omer,Sudan,M,,,,1.6,,,,,2025-12-24T15:00:00Z
-Mahamadou Nagida,Cameroon,D,,,,1.6,,,,,2025-12-24T20:00:00Z
-Bilal El Khannouss,Morocco,M,1.0,1.0,0.0,1.5,,,,,2025-12-21T19:00:00Z
-Fodé Doucouré,Mali,M,0.0,0.0,0.0,1.5,,,,,2025-12-22T14:00:00Z
-Rafik Belghali,Algeria,M,,,,1.5,,,,,2025-12-24T15:00:00Z
-Anis Hadj Moussa,Algeria,F,,,,1.4,,,,,2025-12-24T15:00:00Z
-Gaoussou Diarra,Mali,M,1.0,1.0,0.0,1.4,,,,,2025-12-22T14:00:00Z
-Milson,Angola,M,0.0,0.0,0.0,1.4,,,,,2025-12-22T17:00:00Z
-Guélor Kanga,Gabon,M,,,,1.4,,,,,2025-12-24T20:00:00Z
-Adem Zorgane,Algeria,M,,,,1.4,,,,,2025-12-24T15:00:00Z
-Junior Olaitan,Benin,M,,,,1.4,,,,,2025-12-23T12:30:00Z
-Jean Michaël Seri,Côte d'Ivoire,M,,,,1.4,,,,,2025-12-24T17:30:00Z
-Cyriaque Irié,Burkina Faso,M,,,,1.4,,,,,2025-12-24T12:30:00Z
-Jean Onana,Cameroon,M,,,,1.4,,,,,2025-12-24T20:00:00Z
-Mamadou Fofana,Mali,D,1.0,1.0,1.0,1.4,,,,,2025-12-22T14:00:00Z
-Georgi Minoungou,Burkina Faso,M,,,,1.4,,,,,2025-12-24T12:30:00Z
-Woyo Coulibaly,Mali,D,1.0,1.0,1.0,1.4,,,,,2025-12-22T14:00:00Z
-Francis Uzoho,Nigeria,G,,,,1.4,,,,,2025-12-23T17:30:00Z
-Denis Bouanga,Gabon,F,,,,1.3,,,,,2025-12-24T20:00:00Z
-Naïm Sliti,Tunisia,M,,,,1.3,,,,,2025-12-23T20:00:00Z
-Meschack Elia,DR Congo,F,,,,1.3,,,,,2025-12-23T12:30:00Z
-Maestro,Angola,M,0.0,0.0,1.0,1.3,,,,,2025-12-22T17:00:00Z
-Sebastian Tounekti,Tunisia,M,,,,1.3,,,,,2025-12-23T20:00:00Z
-Antoine Mendy,Senegal,D,,,,1.3,,,,,2025-12-23T15:00:00Z
-Akor Adams,Nigeria,F,,,,1.3,,,,,2025-12-23T17:30:00Z
-Hicham Boudaoui,Algeria,M,,,,1.2,,,,,2025-12-24T15:00:00Z
-Youssouf M'Changama,Comoros,M,4.0,4.0,1.0,1.2,,,,,2025-12-21T19:00:00Z
-Mohamed Shehata,Egypt,M,,,,1.2,,,,,2025-12-22T20:00:00Z
-Pedro Obiang,Equatorial Guinea,M,,,,1.2,,,,,2025-12-24T12:30:00Z
-Stephane Aziz Ki,Burkina Faso,F,,,,1.2,,,,,2025-12-24T12:30:00Z
-Mohamed Zougrana,Burkina Faso,M,,,,1.2,,,,,2025-12-24T12:30:00Z
-Royce Openda,Gabon,F,,,,1.2,,,,,2025-12-24T20:00:00Z
-Ilay Camara,Senegal,M,,,,1.2,,,,,2025-12-23T15:00:00Z
-Firas Chaouat,Tunisia,F,,,,1.2,,,,,2025-12-23T20:00:00Z
-Tylon Smith,South Africa,D,0.0,0.0,0.0,1.2,,,,,2025-12-22T17:00:00Z
-Arthur Avom Ebong,Cameroon,M,,,,1.1,,,,,2025-12-24T20:00:00Z
-Jean-Philippe Krasso,Côte d'Ivoire,F,,,,1.1,,,,,2025-12-24T17:30:00Z
-Beni Mukendi,Angola,M,0.0,0.0,0.0,1.1,,,,,2025-12-22T17:00:00Z
-M'Bala Nzola,Angola,F,0.0,0.0,1.0,1.1,,,,,2025-12-22T17:00:00Z
-Thalente Mbatha,South Africa,M,0.0,0.0,0.0,1.1,,,,,2025-12-22T17:00:00Z
-Bathusi Aubaas,South Africa,M,0.0,0.0,0.0,1.1,,,,,2025-12-22T17:00:00Z
-Rui Modesto,Angola,M,0.0,0.0,0.0,1.1,,,,,2025-12-22T17:00:00Z
-Olivier Kemen,Cameroon,M,,,,1.1,,,,,2025-12-24T20:00:00Z
-Pablo Ganet,Equatorial Guinea,M,,,,1.1,,,,,2025-12-24T12:30:00Z
-André Poko,Gabon,M,,,,1.1,,,,,2025-12-24T20:00:00Z
-Didier N'Dong,Gabon,M,,,,1.1,,,,,2025-12-24T20:00:00Z
-Mbwana Ally Samatta,Tanzania,F,,,,1.1,,,,,2025-12-23T17:30:00Z
-Jérémy Oyono,Gabon,M,,,,1.1,,,,,2025-12-24T20:00:00Z
-Devis Epassy,Cameroon,G,,,,1.1,,,,,2025-12-24T20:00:00Z
-Timothy Fayulu,DR Congo,G,,,,1.1,,,,,2025-12-23T12:30:00Z
-Mory Diaw,Senegal,G,,,,1.1,,,,,2025-12-23T15:00:00Z
-Mohamed Tijani,Benin,D,,,,1.1,,,,,2025-12-23T12:30:00Z
-Travis Mutyaba,Uganda,M,,,,1.1,,,,,2025-12-23T20:00:00Z
-Mohamed Kasri,Sudan,D,,,,1.1,,,,,2025-12-24T15:00:00Z
-Mamadou Sangare,Mali,M,7.0,7.0,1.0,1.0,,,,,2025-12-22T14:00:00Z
-Neil El Aynaoui,Morocco,M,3.0,3.0,1.0,1.0,,,,,2025-12-21T19:00:00Z
-El Bilal Touré,Mali,F,0.0,0.0,1.0,1.0,,,,,2025-12-22T14:00:00Z
-Ramiz Zerrouki,Algeria,M,,,,1.0,,,,,2025-12-24T15:00:00Z
-Edo Kayembe,DR Congo,M,,,,1.0,,,,,2025-12-23T12:30:00Z
-Ibrahim Adel,Egypt,M,,,,1.0,,,,,2025-12-22T20:00:00Z
-Charles Pickel,DR Congo,M,,,,1.0,,,,,2025-12-23T12:30:00Z
-Ryan Alebiosu,Nigeria,M,,,,1.0,,,,,2025-12-23T17:30:00Z
-Parfait Guiagon,Côte d'Ivoire,M,,,,1.0,,,,,2025-12-24T17:30:00Z
-Hassane Imourane,Benin,M,,,,1.0,,,,,2025-12-23T12:30:00Z
-Martin Ndzie,Cameroon,M,,,,1.0,,,,,2025-12-24T20:00:00Z
-Mohamed Chibi,Morocco,D,0.0,0.0,0.0,1.0,,,,,2025-12-21T19:00:00Z
-Arsène Kouassi,Burkina Faso,D,,,,1.0,,,,,2025-12-24T12:30:00Z
-Yehvann Diouf,Senegal,G,,,,1.0,,,,,2025-12-23T15:00:00Z
-Rassoul Ndiaye,Senegal,M,,,,1.0,,,,,2025-12-23T15:00:00Z
-Ahmed El-Shenawy,Egypt,G,,,,1.0,,,,,2025-12-22T20:00:00Z
-Bechir Ben Said,Tunisia,G,,,,1.0,,,,,2025-12-23T20:00:00Z
-Charles Lukwago,Uganda,G,,,,1.0,,,,,2025-12-23T20:00:00Z
-Tadiwa Chakuchichi,Zimbabwe,F,,,,1.0,,,,,2025-12-22T20:00:00Z
-Aiyegun Tosin,Benin,F,,,,0.9,,,,,2025-12-23T12:30:00Z
-Pierre Landry Kaboré,Burkina Faso,F,,,,0.9,,,,,2025-12-24T12:30:00Z
-Vakoun Issouf Bayo,Côte d'Ivoire,F,,,,0.9,,,,,2025-12-24T17:30:00Z
-Fashion Sakala,Zambia,F,4.0,4.0,1.0,0.9,,,,,2025-12-22T14:00:00Z
-Lameck Banda,Zambia,M,1.0,1.0,1.0,0.9,,,,,2025-12-22T14:00:00Z
-Allan Okello,Uganda,M,,,,0.9,,,,,2025-12-23T20:00:00Z
-Nkosinathi Sibisi,South Africa,D,0.0,0.0,0.0,0.9,,,,,2025-12-22T17:00:00Z
-Anthony Mandrea,Algeria,G,,,,0.9,,,,,2025-12-24T15:00:00Z
-Marwan Attia,Egypt,M,,,,0.8,,,,,2025-12-22T20:00:00Z
-Bazoumana Touré,Côte d'Ivoire,M,,,,0.8,,,,,2025-12-24T17:30:00Z
-Geny Catamo,Mozambique,M,,,,0.8,,,,,2025-12-24T17:30:00Z
-Mamadou Doumbia,Mali,F,0.0,0.0,0.0,0.8,,,,,2025-12-22T14:00:00Z
-Chico Banza,Angola,F,0.0,0.0,0.0,0.8,,,,,2025-12-22T17:00:00Z
-Danny Namaso,Cameroon,F,,,,0.8,,,,,2025-12-24T20:00:00Z
-Osama Faisal,Egypt,F,,,,0.8,,,,,2025-12-22T20:00:00Z
-Frank Magri,Cameroon,F,,,,0.8,,,,,2025-12-24T20:00:00Z
-Mahamadou Doumbia,Mali,M,1.0,1.0,0.0,0.8,,,,,2025-12-22T14:00:00Z
-Sipho Mbule,South Africa,M,2.0,2.0,1.0,0.8,,,,,2025-12-22T17:00:00Z
-Evidence Makgopa,South Africa,F,0.0,0.0,0.0,0.8,,,,,2025-12-22T17:00:00Z
-Hossam Abdelmaguid,Egypt,D,,,,0.8,,,,,2025-12-22T20:00:00Z
-Loyce  Mbaba,Gabon,G,,,,0.8,,,,,2025-12-24T20:00:00Z
-Nathanaël Mbuku,DR Congo,F,,,,0.8,,,,,2025-12-23T12:30:00Z
-Zineddine Belaid,Algeria,D,,,,0.8,,,,,2025-12-24T15:00:00Z
-Igoh Ogbu,Nigeria,D,,,,0.8,,,,,2025-12-23T17:30:00Z
-Denis Onyango,Uganda,G,,,,0.8,,,,,2025-12-23T20:00:00Z
-Jesús Owono,Equatorial Guinea,G,,,,0.8,,,,,2025-12-24T12:30:00Z
-Mohamed Koné,Côte d'Ivoire,G,,,,0.8,,,,,2025-12-24T17:30:00Z
-Goitseone Phoko,Botswana,G,,,,0.8,,,,,2025-12-23T15:00:00Z
-Edouard Sombang,Cameroon,G,,,,0.8,,,,,2025-12-24T20:00:00Z
-Oussama Targhalline,Morocco,M,0.0,0.0,0.0,0.7,,,,,2025-12-21T19:00:00Z
-Faïz Selemani,Comoros,F,7.0,7.0,1.0,0.7,,,,,2025-12-21T19:00:00Z
-Brian Cipenga,DR Congo,F,,,,0.7,,,,,2025-12-23T12:30:00Z
-Rogers Mato,Uganda,F,,,,0.7,,,,,2025-12-23T20:00:00Z
-Cheick Tidiane Sabaly,Senegal,F,,,,0.7,,,,,2025-12-23T15:00:00Z
-Abdoulaye Diaby,Mali,D,5.0,5.0,1.0,0.7,,,,,2025-12-22T14:00:00Z
-Elias Mokwana,South Africa,M,0.0,0.0,0.0,0.7,,,,,2025-12-22T17:00:00Z
-Neblú,Angola,G,0.0,0.0,0.0,0.7,,,,,2025-12-22T17:00:00Z
-Chidozie Awaziem,Nigeria,D,,,,0.7,,,,,2025-12-23T17:30:00Z
-Steve Mounié,Benin,F,,,,0.7,,,,,2025-12-23T12:30:00Z
-Mamadou Lamine Camara,Senegal,M,,,,0.7,,,,,2025-12-23T15:00:00Z
-Tochukwu Nnadi,Nigeria,M,,,,0.7,,,,,2025-12-23T17:30:00Z
-Mohamed Abdelrahman,Sudan,F,,,,0.7,,,,,2025-12-24T15:00:00Z
-Tholo Thabang Matuludi,South Africa,D,0.0,0.0,0.0,0.7,,,,,2025-12-22T17:00:00Z
-Guima,Mozambique,M,,,,0.7,,,,,2025-12-24T17:30:00Z
-Godairone Modingwane,Botswana,M,,,,0.7,,,,,2025-12-23T15:00:00Z
-Saturnin Allagbe,Benin,G,,,,0.7,,,,,2025-12-23T12:30:00Z
-Ngal'ayel Mukau,DR Congo,M,,,,0.6,,,,,2025-12-23T12:30:00Z
-Christian Kofane,Cameroon,F,,,,0.6,,,,,2025-12-24T20:00:00Z
-Lassina Traoré,Burkina Faso,F,,,,0.6,,,,,2025-12-24T12:30:00Z
-Ousseni Bouda,Burkina Faso,F,,,,0.6,,,,,2025-12-24T12:30:00Z
-Luís Asué,Equatorial Guinea,F,,,,0.6,,,,,2025-12-24T12:30:00Z
-Yannick Pandor,Comoros,G,8.0,8.0,1.0,0.6,,,,,2025-12-21T19:00:00Z
-Gaoussou Diakite,Mali,F,0.0,0.0,0.0,0.6,,,,,2025-12-22T14:00:00Z
-Mamadou Camara,Mali,M,0.0,0.0,0.0,0.6,,,,,2025-12-22T14:00:00Z
-Tó Carneiro,Angola,D,-1.0,-1.0,1.0,0.6,,,,,2025-12-22T17:00:00Z
-Mehdi Dorval,Algeria,M,,,,0.6,,,,,2025-12-24T15:00:00Z
-Mahmoud Saber,Egypt,M,,,,0.6,,,,,2025-12-22T20:00:00Z
-Farid Ouedraogo,Burkina Faso,G,,,,0.6,,,,,2025-12-24T12:30:00Z
-Sipho Chaine,South Africa,G,0.0,0.0,0.0,0.6,,,,,2025-12-22T17:00:00Z
-Munir El Kajoui,Morocco,G,0.0,0.0,0.0,0.6,,,,,2025-12-21T19:00:00Z
-Elvis Chipezeze,Zimbabwe,G,,,,0.6,,,,,2025-12-22T20:00:00Z
-Mohamed Ismail,Egypt,D,,,,0.6,,,,,2025-12-22T20:00:00Z
-Kabaso Chongo,Zambia,D,0.0,0.0,0.0,0.6,,,,,2025-12-22T14:00:00Z
-Ricardo Goss,South Africa,G,0.0,0.0,0.0,0.6,,,,,2025-12-22T17:00:00Z
-Nathan Gassama,Mali,D,0.0,0.0,0.0,0.6,,,,,2025-12-22T14:00:00Z
-Mohamed Sobhi,Egypt,G,,,,0.6,,,,,2025-12-22T20:00:00Z
-Abdul Suleiman,Tanzania,F,,,,0.6,,,,,2025-12-23T17:30:00Z
-Aamir Abdallah,Sudan,M,,,,0.6,,,,,2025-12-24T15:00:00Z
-Ahmed Bakari Pipino,Tanzania,M,,,,0.6,,,,,2025-12-23T17:30:00Z
-Omaatla Kebatho,Botswana,F,,,,0.6,,,,,2025-12-23T15:00:00Z
-Mario Stroeykens,DR Congo,M,,,,0.5,,,,,2025-12-23T12:30:00Z
-Kings Kangwa,Zambia,M,1.0,1.0,1.0,0.5,,,,,2025-12-22T14:00:00Z
-Abdoulaye Seck,Senegal,D,,,,0.5,,,,,2025-12-23T15:00:00Z
-Khaled Sobhi,Egypt,D,,,,0.5,,,,,2025-12-22T20:00:00Z
-Ibrahim Hamad,Tanzania,D,,,,0.5,,,,,2025-12-23T17:30:00Z
-Feisal Salum,Tanzania,M,,,,0.5,,,,,2025-12-23T17:30:00Z
-Mohamed Belhadj Mahmoud,Tunisia,M,,,,0.5,,,,,2025-12-23T20:00:00Z
-Willard Mwanza,Zambia,G,10.0,10.0,1.0,0.5,,,,,2025-12-22T14:00:00Z
-Tshepang Moremi,South Africa,M,0.0,0.0,0.0,0.5,,,,,2025-12-22T17:00:00Z
-Kilian Nikièma,Burkina Faso,G,,,,0.5,,,,,2025-12-24T12:30:00Z
-Steve Kapuadi,DR Congo,D,,,,0.5,,,,,2025-12-23T12:30:00Z
-Youssef Belammari,Morocco,D,,,,0.5,,,,,2025-12-21T19:00:00Z
-Divine Lunga,Zimbabwe,D,,,,0.5,,,,,2025-12-22T20:00:00Z
-Keagile Kgosipula,Botswana,G,,,,0.5,,,,,2025-12-23T15:00:00Z
-Carlos Akapo,Equatorial Guinea,D,,,,0.5,,,,,2025-12-24T12:30:00Z
-Tawanda Chirewa,Zimbabwe,M,,,,0.5,,,,,2025-12-22T20:00:00Z
-Salim Jamal Magoola,Uganda,G,,,,0.5,,,,,2025-12-23T20:00:00Z
-Ali Abdallah Abu-Eshrein,Sudan,G,,,,0.5,,,,,2025-12-24T15:00:00Z
-Yannis Kari,Comoros,D,2.0,2.0,1.0,0.5,,,,,2025-12-21T19:00:00Z
-Raouf Mroivili,Comoros,M,0.0,0.0,0.0,0.5,,,,,2025-12-21T19:00:00Z
-Idris Mohamed,Comoros,D,0.0,0.0,0.0,0.5,,,,,2025-12-21T19:00:00Z
-Elio Capradossi,Uganda,D,,,,0.5,,,,,2025-12-23T20:00:00Z
-Oussama Benbot,Algeria,G,,,,0.5,,,,,2025-12-24T15:00:00Z
-Tamimou Ouorou,Benin,D,,,,0.5,,,,,2025-12-23T12:30:00Z
-Walieldin Khidir,Sudan,M,,,,0.5,,,,,2025-12-24T15:00:00Z
-Sabri Ben Hessen,Tunisia,G,,,,0.5,,,,,2025-12-23T20:00:00Z
-Mothusi Cooper,Botswana,M,,,,0.5,,,,,2025-12-23T15:00:00Z
-Salaheldin Adil,Sudan,M,,,,0.5,,,,,2025-12-24T15:00:00Z
-Charles Ondo,Equatorial Guinea,D,,,,0.5,,,,,2025-12-24T12:30:00Z
-Monty Enosa,Botswana,M,,,,0.5,,,,,2025-12-23T15:00:00Z
-Hamdy Fathy,Egypt,M,,,,0.4,,,,,2025-12-22T20:00:00Z
-Mostafa Fathy,Egypt,M,,,,0.4,,,,,2025-12-22T20:00:00Z
-Lubambo Musonda,Zambia,M,3.0,3.0,1.0,0.4,,,,,2025-12-22T14:00:00Z
-Samukelo Kabini,South Africa,D,0.0,0.0,0.0,0.4,,,,,2025-12-22T17:00:00Z
-Olivier Verdon,Benin,D,,,,0.4,,,,,2025-12-23T12:30:00Z
-Salah Mohsen,Egypt,F,,,,0.4,,,,,2025-12-22T20:00:00Z
-Anthony Oyono,Gabon,D,,,,0.4,,,,,2025-12-24T20:00:00Z
-Mortadha Ben Ouanes,Tunisia,M,,,,0.4,,,,,2025-12-23T20:00:00Z
-Mohamed Ben Ali,Tunisia,D,,,,0.4,,,,,2025-12-23T20:00:00Z
-Ismahila Ouédraogo,Burkina Faso,M,,,,0.4,,,,,2025-12-24T12:30:00Z
-Yohan Roche,Benin,D,,,,0.4,,,,,2025-12-23T12:30:00Z
-Mohamed Husseini,Tanzania,D,,,,0.4,,,,,2025-12-23T17:30:00Z
-Dokou Dodo,Benin,M,,,,0.4,,,,,2025-12-23T12:30:00Z
-Ahmed Eid,Egypt,D,,,,0.4,,,,,2025-12-22T20:00:00Z
-Saidou Simporé,Burkina Faso,D,,,,0.4,,,,,2025-12-24T12:30:00Z
-Cyriel Dessers,Nigeria,F,,,,0.4,,,,,2025-12-23T17:30:00Z
-Adamo Nagalo,Burkina Faso,D,,,,0.4,,,,,2025-12-24T12:30:00Z
-Benson Sakala,Zambia,M,5.0,5.0,1.0,0.4,,,,,2025-12-22T14:00:00Z
-Miguel Changa Chaiwa,Zambia,M,3.0,3.0,1.0,0.4,,,,,2025-12-22T14:00:00Z
-Khulumani Ndamane,South Africa,D,0.0,0.0,0.0,0.4,,,,,2025-12-22T17:00:00Z
-Pedro Bondo,Angola,D,0.0,0.0,0.0,0.4,,,,,2025-12-22T17:00:00Z
-Antonio Signori Dominique,Angola,G,0.0,0.0,0.0,0.4,,,,,2025-12-22T17:00:00Z
-Aziz Kayondo,Uganda,D,,,,0.4,,,,,2025-12-23T20:00:00Z
-Armel Junior Zohouri,Côte d'Ivoire,D,,,,0.4,,,,,2025-12-24T17:30:00Z
-Knowledge Musona,Zimbabwe,M,,,,0.4,,,,,2025-12-22T20:00:00Z
-Mohamed Saeed Ahmed,Sudan,D,,,,0.4,,,,,2025-12-24T15:00:00Z
-Ernan,Mozambique,G,,,,0.4,,,,,2025-12-24T17:30:00Z
-Edson Mexer,Mozambique,D,,,,0.4,,,,,2025-12-24T17:30:00Z
-Thatayaone Ditlhokwe,Botswana,D,,,,0.4,,,,,2025-12-23T15:00:00Z
-Eddie Afonso,Angola,D,,,,0.4,,,,,2025-12-22T17:00:00Z
-Aitor Embela Gil,Equatorial Guinea,G,,,,0.4,,,,,2025-12-24T12:30:00Z
-Lawrence Mulenga,Zambia,G,0.0,0.0,0.0,0.4,,,,,2025-12-22T14:00:00Z
-Mehdi Al Harrar,Morocco,G,0.0,0.0,0.0,0.4,,,,,2025-12-21T19:00:00Z
-Iyad Mohamed,Comoros,M,0.0,0.0,1.0,0.4,,,,,2025-12-21T19:00:00Z
-Adel Anzimati-Aboudou,Comoros,G,0.0,0.0,0.0,0.4,,,,,2025-12-21T19:00:00Z
-Ismael Diawara,Mali,G,0.0,0.0,0.0,0.4,,,,,2025-12-22T14:00:00Z
-Simon Ngapandouetnbu,Cameroon,G,,,,0.4,,,,,2025-12-24T20:00:00Z
-Ahmed Yousif Tabanja,Sudan,D,,,,0.4,,,,,2025-12-24T15:00:00Z
-Iddi Selemani,Tanzania,F,,,,0.4,,,,,2025-12-23T17:30:00Z
-Olebogeng Ramotse,Botswana,M,,,,0.4,,,,,2025-12-23T15:00:00Z
-Stoppila Sunzu,Zambia,D,,,,0.4,,,,,2025-12-22T14:00:00Z
-Mohamed Abooja,Sudan,G,,,,0.4,,,,,2025-12-24T15:00:00Z
-Jonah Fabisch,Zimbabwe,M,,,,0.4,,,,,2025-12-22T20:00:00Z
-Alford Velaphi,Botswana,D,,,,0.4,,,,,2025-12-23T15:00:00Z
-Manuel Sapunga,Equatorial Guinea,G,,,,0.4,,,,,2025-12-24T12:30:00Z
-Ammar Taifour,Sudan,M,,,,0.4,,,,,2025-12-24T15:00:00Z
-John Robia,Sudan,F,,,,0.4,,,,,2025-12-24T15:00:00Z
-Bakhit Khamis,Sudan,D,,,,0.4,,,,,2025-12-24T15:00:00Z
-Segolame Boy,Botswana,M,,,,0.4,,,,,2025-12-23T15:00:00Z
-Diogo Calila,Mozambique,M,,,,0.4,,,,,2025-12-24T17:30:00Z
-Awad Zayed,Sudan,D,,,,0.4,,,,,2025-12-24T15:00:00Z
-Noureddine Farhati,Tunisia,G,,,,0.4,,,,,2025-12-23T20:00:00Z
-Néstor Senra,Equatorial Guinea,D,,,,0.4,,,,,2025-12-24T12:30:00Z
-Hussein Masalanga,Tanzania,G,,,,0.4,,,,,2025-12-23T17:30:00Z
-Oscar Cherene,Mozambique,F,,,,0.4,,,,,2025-12-24T17:30:00Z
-Michael Ngaah,Equatorial Guinea,D,,,,0.4,,,,,2025-12-24T12:30:00Z
-Zaydou Youssouf,Comoros,M,3.0,3.0,1.0,0.3,,,,,2025-12-21T19:00:00Z
-Myziane Maolida,Comoros,M,1.0,1.0,0.0,0.3,,,,,2025-12-21T19:00:00Z
-Siphephelo Sithole,South Africa,M,2.0,2.0,1.0,0.3,,,,,2025-12-22T17:00:00Z
-Randy Nteka,Angola,F,0.0,0.0,0.0,0.3,,,,,2025-12-22T17:00:00Z
-Christopher Operi,Côte d'Ivoire,D,,,,0.3,,,,,2025-12-24T17:30:00Z
-Nader Ghandri,Tunisia,D,,,,0.3,,,,,2025-12-23T20:00:00Z
-Usman Mohammed,Nigeria,M,,,,0.3,,,,,2025-12-23T17:30:00Z
-Salim Fago Lawal,Nigeria,F,,,,0.3,,,,,2025-12-23T17:30:00Z
-Gerzino Nyamsi,Cameroon,D,,,,0.3,,,,,2025-12-24T20:00:00Z
-Ambina Fidèle Brice,Cameroon,M,,,,0.3,,,,,2025-12-24T20:00:00Z
-Samuel Kotto,Cameroon,D,,,,0.3,,,,,2025-12-24T20:00:00Z
-Patrick Soko,Cameroon,F,,,,0.3,,,,,2025-12-24T20:00:00Z
-Bruno Langa,Mozambique,D,,,,0.3,,,,,2025-12-24T17:30:00Z
-Simon Msuva,Tanzania,F,,,,0.3,,,,,2025-12-23T17:30:00Z
-Jordan Obita,Uganda,D,,,,0.3,,,,,2025-12-23T20:00:00Z
-Johann Obiang,Gabon,D,,,,0.3,,,,,2025-12-24T20:00:00Z
-David Kiki,Benin,D,,,,0.3,,,,,2025-12-23T12:30:00Z
-Ismaël Boura,Comoros,D,-1.0,-1.0,1.0,0.3,,,,,2025-12-21T19:00:00Z
-Benjaloud Youssouf,Comoros,D,3.0,3.0,1.0,0.3,,,,,2025-12-21T19:00:00Z
-Núrio Fortuna,Angola,D,0.0,0.0,0.0,0.3,,,,,2025-12-22T17:00:00Z
-Urie-Michel Mboula,Gabon,D,,,,0.3,,,,,2025-12-24T20:00:00Z
-Abdoul Rachid Ayinde,Burkina Faso,D,,,,0.3,,,,,2025-12-24T12:30:00Z
-Abdoul Rachid Moumini,Benin,D,,,,0.3,,,,,2025-12-23T12:30:00Z
-Mustafa Karshoum,Sudan,D,,,,0.3,,,,,2025-12-24T15:00:00Z
-Khalid Aucho,Uganda,M,,,,0.3,,,,,2025-12-23T20:00:00Z
-Kabelo Seakanyeng,Botswana,M,,,,0.3,,,,,2025-12-23T15:00:00Z
-Tebogo Kopelang,Botswana,D,,,,0.3,,,,,2025-12-23T15:00:00Z
-Josete Miranda,Equatorial Guinea,F,,,,0.3,,,,,2025-12-24T12:30:00Z
-Feliciano Jone Nenê,Mozambique,D,,,,0.3,,,,,2025-12-24T17:30:00Z
-Wilson Nangu,Tanzania,D,,,,0.3,,,,,2025-12-23T17:30:00Z
-Morice Abraham,Tanzania,M,,,,0.3,,,,,2025-12-23T17:30:00Z
-Tumisang Orebonye,Botswana,F,,,,0.3,,,,,2025-12-23T15:00:00Z
-Mathews Banda,Zambia,D,6.0,6.0,1.0,0.3,,,,,2025-12-22T14:00:00Z
-Mamadou Samassa,Mali,G,0.0,0.0,0.0,0.3,,,,,2025-12-22T14:00:00Z
-Rayan Lutin,Comoros,M,0.0,0.0,0.0,0.3,,,,,2025-12-21T19:00:00Z
-Francis Mwansa,Zambia,G,0.0,0.0,0.0,0.3,,,,,2025-12-22T14:00:00Z
-Salim Ben Boina,Comoros,G,0.0,0.0,0.0,0.3,,,,,2025-12-21T19:00:00Z
-El Fardou Ben,Comoros,F,0.0,0.0,0.0,0.3,,,,,2025-12-21T19:00:00Z
-Charlemagne Azongnitode,Benin,D,,,,0.3,,,,,2025-12-23T12:30:00Z
-Washington Arubi,Zimbabwe,G,,,,0.3,,,,,2025-12-22T20:00:00Z
-Edmilson Gabriel Dove,Mozambique,D,,,,0.3,,,,,2025-12-24T17:30:00Z
-Mosha Gaolaolwe,Botswana,D,,,,0.3,,,,,2025-12-23T15:00:00Z
-Yaser Awad Boshara,Sudan,D,,,,0.3,,,,,2025-12-24T15:00:00Z
-Andy Rinomhota,Zimbabwe,M,,,,0.3,,,,,2025-12-22T20:00:00Z
-Alec Mudimu,Zimbabwe,D,,,,0.3,,,,,2025-12-22T20:00:00Z
-Al-Gozoli Nooh,Sudan,M,,,,0.3,,,,,2025-12-24T15:00:00Z
-Byaruhanga Bobosi,Uganda,M,,,,0.3,,,,,2025-12-23T20:00:00Z
-Fernando Chamboco,Mozambique,D,,,,0.3,,,,,2025-12-24T17:30:00Z
-Amas Obasogie,Nigeria,G,,,,0.3,,,,,2025-12-23T17:30:00Z
-Thabo Leinanyane,Botswana,D,,,,0.3,,,,,2025-12-23T15:00:00Z
-Anse Ngoubi Demba,Gabon,G,,,,0.3,,,,,2025-12-24T20:00:00Z
-Bakari Mwamnyeto,Tanzania,D,,,,0.3,,,,,2025-12-23T17:30:00Z
-Monged Elneel,Sudan,G,,,,0.3,,,,,2025-12-24T15:00:00Z
-Prosper Padera,Zimbabwe,M,,,,0.3,,,,,2025-12-22T20:00:00Z
-Muhamed Tia Asad,Sudan,F,,,,0.3,,,,,2025-12-24T15:00:00Z
-Thatayaone Kgamanyane,Botswana,M,,,,0.3,,,,,2025-12-23T15:00:00Z
-Jannick Buyla,Equatorial Guinea,M,,,,0.3,,,,,2025-12-24T12:30:00Z
-Melque Alexandre,Mozambique,F,,,,0.3,,,,,2025-12-24T17:30:00Z
-James Bogere,Uganda,F,,,,0.3,,,,,2025-12-23T20:00:00Z
-Mick Onfia,Gabon,D,,,,0.3,,,,,2025-12-24T20:00:00Z
-Pascal Phiri,Zambia,F,,,,0.3,,,,,2025-12-22T14:00:00Z
-François Bekale,Gabon,G,,,,0.3,,,,,2025-12-24T20:00:00Z
-Thabo Maponda,Botswana,F,,,,0.3,,,,,2025-12-23T15:00:00Z
-Martín Mapisa,Zimbabwe,G,,,,0.3,,,,,2025-12-22T20:00:00Z
-Isheanasu Mauchi,Zimbabwe,D,,,,0.3,,,,,2025-12-22T20:00:00Z
-Ishmael Wadi,Zimbabwe,F,,,,0.3,,,,,2025-12-22T20:00:00Z
-Isaac Muleme,Uganda,D,,,,0.3,,,,,2025-12-23T20:00:00Z
-Musa Ali Hussein,Sudan,F,,,,0.3,,,,,2025-12-24T15:00:00Z
-Nanani Infren,Mozambique,D,,,,0.3,,,,,2025-12-24T17:30:00Z
-Kassim M'Dahoma,Comoros,D,1.0,1.0,0.0,0.2,,,,,2025-12-21T19:00:00Z
-Yacine Bourhane,Comoros,M,1.0,1.0,0.0,0.2,,,,,2025-12-21T19:00:00Z
-Saïd Bakari,Comoros,D,0.0,0.0,0.0,0.2,,,,,2025-12-21T19:00:00Z
-Mário Balbúrdia,Angola,M,0.0,0.0,0.0,0.2,,,,,2025-12-22T17:00:00Z
-Manuel Keliano,Angola,M,0.0,0.0,0.0,0.2,,,,,2025-12-22T17:00:00Z
-Ary Papel,Angola,F,0.0,0.0,0.0,0.2,,,,,2025-12-22T17:00:00Z
-Kelvin John,Tanzania,F,,,,0.2,,,,,2025-12-23T17:30:00Z
-Santiago Bocari Eneme,Equatorial Guinea,M,,,,0.2,,,,,2025-12-24T12:30:00Z
-Teddy Averlant,Gabon,M,,,,0.2,,,,,2025-12-24T20:00:00Z
-Tawanda Maswanhise,Zimbabwe,F,,,,0.2,,,,,2025-12-22T20:00:00Z
-Samadou Attidjikou,Benin,M,,,,0.2,,,,,2025-12-23T12:30:00Z
-Alfons Amade,Mozambique,M,,,,0.2,,,,,2025-12-24T17:30:00Z
-Eric Bocoum Baboue,Gabon,F,,,,0.2,,,,,2025-12-24T20:00:00Z
-Haji Mnoga,Tanzania,M,,,,0.2,,,,,2025-12-23T17:30:00Z
-Stanley Ratifo,Mozambique,F,,,,0.2,,,,,2025-12-24T17:30:00Z
-Baba Alhassan,Uganda,M,,,,0.2,,,,,2025-12-23T20:00:00Z
-Yasir Mozamil,Sudan,F,,,,0.2,,,,,2025-12-24T15:00:00Z
-Cédric Badolo,Burkina Faso,M,,,,0.2,,,,,2025-12-24T12:30:00Z
-Loren Zúñiga,Equatorial Guinea,F,,,,0.2,,,,,2025-12-24T12:30:00Z
-Alex Moucketou-Moussounda,Gabon,D,,,,0.2,,,,,2025-12-24T20:00:00Z
-Owen Tembo,Zambia,M,4.0,4.0,1.0,0.2,,,,,2025-12-22T14:00:00Z
-Kenan Toibibou,Comoros,D,1.0,1.0,1.0,0.2,,,,,2025-12-21T19:00:00Z
-Abdel Hakim Abdallah,Comoros,D,0.0,0.0,0.0,0.2,,,,,2025-12-21T19:00:00Z
-Aboubacar Ali Abdallah,Comoros,F,0.0,0.0,0.0,0.2,,,,,2025-12-21T19:00:00Z
-Aymeric Ahmed,Comoros,M,0.0,0.0,0.0,0.2,,,,,2025-12-21T19:00:00Z
-Wilson Chisala,Zambia,M,0.0,0.0,0.0,0.2,,,,,2025-12-22T14:00:00Z
-Zaïd Amir,Comoros,F,0.0,0.0,0.0,0.2,,,,,2025-12-21T19:00:00Z
-Joseph Sabobo,Zambia,M,0.0,0.0,0.0,0.2,,,,,2025-12-22T14:00:00Z
-Rémy Vita,Comoros,D,0.0,0.0,0.0,0.2,,,,,2025-12-21T19:00:00Z
-Obino Chisala,Zambia,M,0.0,0.0,0.0,0.2,,,,,2025-12-22T14:00:00Z
-Tarryn Allarakhia,Tanzania,M,,,,0.2,,,,,2025-12-23T17:30:00Z
-Manuel Kambala,Mozambique,M,,,,0.2,,,,,2025-12-24T17:30:00Z
-Alphonce Msanga,Tanzania,M,,,,0.2,,,,,2025-12-23T17:30:00Z
-Mohamed Eisa,Sudan,F,,,,0.2,,,,,2025-12-24T15:00:00Z
-Toby Sibbick,Uganda,D,,,,0.2,,,,,2025-12-23T20:00:00Z
-Adam Akimey,Benin,M,,,,0.2,,,,,2025-12-23T12:30:00Z
-Jude Ssemugabi,Uganda,F,,,,0.2,,,,,2025-12-23T20:00:00Z
-Clench Loufilou,Gabon,M,,,,0.2,,,,,2025-12-24T20:00:00Z
-Prince Dube,Zimbabwe,F,,,,0.2,,,,,2025-12-22T20:00:00Z
-Dominguês Pelembe,Mozambique,M,,,,0.2,,,,,2025-12-24T17:30:00Z
-Alex Masogo,Equatorial Guinea,M,,,,0.2,,,,,2025-12-24T12:30:00Z
-Abo Eisa,Sudan,F,,,,0.2,,,,,2025-12-24T15:00:00Z
-Melvyn Lorenzen,Uganda,F,,,,0.2,,,,,2025-12-23T20:00:00Z
-Charles M'Mombwa,Tanzania,M,,,,0.2,,,,,2025-12-23T17:30:00Z
-Witi,Mozambique,M,,,,0.2,,,,,2025-12-24T17:30:00Z
-José Machín,Equatorial Guinea,M,,,,0.2,,,,,2025-12-24T12:30:00Z
-Munashe Garananga,Zimbabwe,D,,,,0.2,,,,,2025-12-22T20:00:00Z
-Jodel Dossou,Benin,F,,,,0.2,,,,,2025-12-23T12:30:00Z
-Esteban Orozco,Equatorial Guinea,D,,,,0.2,,,,,2025-12-24T12:30:00Z
-Matteo Ahlinvi,Benin,F,,,,0.2,,,,,2025-12-23T12:30:00Z
-Rodrigue Kossi,Benin,M,,,,0.2,,,,,2025-12-23T12:30:00Z
-Bill Antonio,Zimbabwe,F,,,,0.2,,,,,2025-12-22T20:00:00Z
-Rodolfo Aloko,Benin,M,,,,0.2,,,,,2025-12-23T12:30:00Z
-Mariano Ahouangbo,Benin,M,,,,0.2,,,,,2025-12-23T12:30:00Z
-Kelvin Nashon,Tanzania,M,,,,0.2,,,,,2025-12-23T17:30:00Z
-Alex Balboa,Equatorial Guinea,M,,,,0.2,,,,,2025-12-24T12:30:00Z
-Razack Rachidou,Benin,M,,,,0.2,,,,,2025-12-23T12:30:00Z
-Romaric Amoussou,Benin,M,,,,0.2,,,,,2025-12-23T12:30:00Z
-Dominic Chanda,Zambia,D,5.0,5.0,1.0,0.2,,,,,2025-12-22T14:00:00Z
-Ahmed Soilihi,Comoros,D,1.0,1.0,1.0,0.2,,,,,2025-12-21T19:00:00Z
-David Hamansenya,Zambia,D,0.0,0.0,0.0,0.2,,,,,2025-12-22T14:00:00Z
-Hugo Marques,Angola,G,0.0,0.0,1.0,0.2,,,,,2025-12-22T17:00:00Z
-Timothy Awany,Uganda,D,,,,0.2,,,,,2025-12-23T20:00:00Z
-Pascal Msindo,Tanzania,D,,,,0.2,,,,,2025-12-23T17:30:00Z
-Hilary Mukundane,Uganda,D,,,,0.2,,,,,2025-12-23T20:00:00Z
-Junior Zindoga,Zimbabwe,F,,,,0.2,,,,,2025-12-22T20:00:00Z
-Gerald Takwara,Zimbabwe,D,,,,0.2,,,,,2025-12-22T20:00:00Z
-Sean Fusire,Zimbabwe,M,,,,0.2,,,,,2025-12-22T20:00:00Z
-Lusajo Mwaikenda,Tanzania,D,,,,0.2,,,,,2025-12-23T17:30:00Z
-Mothusi Johnson,Botswana,D,,,,0.2,,,,,2025-12-23T15:00:00Z
-Emmanuel Jalai,Zimbabwe,D,,,,0.2,,,,,2025-12-22T20:00:00Z
-Gift Prosper Mphande,Zambia,D,,,,0.2,,,,,2025-12-22T14:00:00Z
-Zuberi Foba Masudi,Tanzania,G,,,,0.2,,,,,2025-12-23T17:30:00Z
-Simon Omossola,Cameroon,G,,,,0.2,,,,,2025-12-24T20:00:00Z
-Mohamed Abuaagla,Sudan,M,,,,0.2,,,,,2025-12-24T15:00:00Z
-Rogers Torach,Uganda,D,,,,0.2,,,,,2025-12-23T20:00:00Z
-Godknows Murwira,Zimbabwe,D,,,,0.2,,,,,2025-12-22T20:00:00Z
-Gilbert Baruti,Botswana,M,,,,0.2,,,,,2025-12-23T15:00:00Z
-Lebogang Ditsele,Botswana,M,,,,0.2,,,,,2025-12-23T15:00:00Z
-Uche Ikpeazu,Uganda,F,,,,0.2,,,,,2025-12-23T20:00:00Z
-Sheddy Barglan,Sudan,D,,,,0.2,,,,,2025-12-24T15:00:00Z
-Nickson Clement Kibabage,Tanzania,D,,,,0.2,,,,,2025-12-23T17:30:00Z
-Legason Nafiani Alionzi,Uganda,G,,,,0.2,,,,,2025-12-23T20:00:00Z
-Ivane Urrubal,Mozambique,G,,,,0.2,,,,,2025-12-24T17:30:00Z
-Kimiss,Mozambique,G,,,,0.2,,,,,2025-12-24T17:30:00Z
-Ronald Ssekiganda,Uganda,M,,,,0.2,,,,,2025-12-23T20:00:00Z
-Denis Omedi,Uganda,F,,,,0.2,,,,,2025-12-23T20:00:00Z
-Ivan Ahimbisibwe,Uganda,F,,,,0.2,,,,,2025-12-23T20:00:00Z
-Rodrigue Fassinou,Benin,D,,,,0.2,,,,,2025-12-23T12:30:00Z
-Mazin Mohamedein,Sudan,D,,,,0.2,,,,,2025-12-24T15:00:00Z
-Marvin Anieboh,Equatorial Guinea,D,,,,0.2,,,,,2025-12-24T12:30:00Z
-Shafik Nana Kwikiriza,Uganda,F,,,,0.2,,,,,2025-12-23T20:00:00Z
-Washington Navaya,Zimbabwe,F,,,,0.2,,,,,2025-12-22T20:00:00Z
-Reagan Mpande,Uganda,F,,,,0.2,,,,,2025-12-23T20:00:00Z
-Dorian Hanza,Equatorial Guinea,F,,,,0.2,,,,,2025-12-24T12:30:00Z
-Daniel Msendami,Zimbabwe,M,,,,0.2,,,,,2025-12-22T20:00:00Z
-Samaké Nze Bagnama,Gabon,M,,,,0.2,,,,,2025-12-24T20:00:00Z
-Chamito Alfandega,Mozambique,F,,,,0.1,,,,,2025-12-24T17:30:00Z
-João Bonde,Mozambique,M,,,,0.1,,,,,2025-12-24T17:30:00Z
-Shavy Warren Babicka,Gabon,F,,,,0.1,,,,,2025-12-24T20:00:00Z
-Jack Lahne,Zambia,F,0.0,0.0,0.0,0.1,,,,,2025-12-22T14:00:00Z
-Joseph Liteta,Zambia,M,0.0,0.0,0.0,0.1,,,,,2025-12-22T14:00:00Z
-David Simukonda,Zambia,M,0.0,0.0,0.0,0.1,,,,,2025-12-22T14:00:00Z
-Given Kalusa,Zambia,M,0.0,0.0,0.0,0.1,,,,,2025-12-22T14:00:00Z
-Eliya Mandanji,Zambia,F,0.0,0.0,0.0,0.1,,,,,2025-12-22T14:00:00Z
-Olatoundji Tessilimi,Benin,F,,,,0.1,,,,,2025-12-23T12:30:00Z
-Gislain Ahoudo,Benin,M,,,,0.1,,,,,2025-12-23T12:30:00Z
-Faisal Abdul Bangal,Mozambique,F,,,,0.1,,,,,2025-12-24T17:30:00Z
-Gape Mohutsiwa,Botswana,M,,,,0.1,,,,,2025-12-23T15:00:00Z
-Thabang Sesinyi,Botswana,F,,,,0.1,,,,,2025-12-23T15:00:00Z
-Gildo,Mozambique,F,,,,0.1,,,,,2025-12-24T17:30:00Z
-Gael Akogo Esono,Equatorial Guinea,M,,,,0.1,,,,,2025-12-24T12:30:00Z
-Khalid Habibu,Tanzania,M,,,,0.1,,,,,2025-12-23T17:30:00Z
-José Nabil,Equatorial Guinea,F,,,,0.1,,,,,2025-12-24T12:30:00Z
-Edlin Essang-Matouti,Gabon,F,,,,0.1,,,,,2025-12-24T20:00:00Z
-Keyns Abdala,Mozambique,M,,,,0.1,,,,,2025-12-24T17:30:00Z
+Player,Team,Pos,Price,Total Points,Round Points,Rnd Strt,Global Own %,League Own %,League Start %,League Cpt %,League Owners,Event Start Timestamp
+Iliman Ndiaye,Senegal,M,7.0,,,,17.0,0.8333333333333334,0.6666666666666666,,"['Allardyced', 'BafanaBhoys', 'Bantah Boyz', 'CôteIvoriehasnoelephants', 'Espresso All Stars', 'EvanRh', 'Kingozil', 'Little Bonne-key', 'Wernham Hogpile', ""Where's Your Wissa Gone""]",2025-12-23T15:00:00Z
+Victor Osimhen,Nigeria,F,11.0,,,,42.9,0.75,0.6666666666666666,,"['Allardyced', 'Bantah Boyz', 'CôteIvoriehasnoelephants', 'Draftalchemy', 'EvanRh', 'Kingozil', ""Matt's Afrikaaners"", 'Wernham Hogpile', ""Where's Your Wissa Gone""]",2025-12-23T17:30:00Z
+Stanley Nwabali,Nigeria,G,4.0,,,,11.5,0.6666666666666666,,,"['Allardyced', 'Bantah Boyz', 'CôteIvoriehasnoelephants', 'EvanRh', 'Kingozil', ""Matt's Afrikaaners"", 'Wernham Hogpile', ""Where's Your Wissa Gone""]",2025-12-23T17:30:00Z
+Bono,Morocco,G,6.0,7.0,7.0,1.0,56.0,0.5833333333333334,0.5833333333333334,,"['Allardyced', 'Bantah Boyz', 'CôteIvoriehasnoelephants', 'Espresso All Stars', 'EvanRh', 'Wernham Hogpile', ""Where's Your Wissa Gone""]",2025-12-21T19:00:00Z
+Brahim Díaz,Morocco,M,10.5,12.0,12.0,1.0,20.6,0.5,0.5,0.3333333333333333,"['Allardyced', 'BafanaBhoys', 'Bantah Boyz', 'Kingozil', ""Matt's Afrikaaners"", 'Wernham Hogpile']",2025-12-21T19:00:00Z
+Kamory Doumbia,Mali,M,7.5,2.0,2.0,1.0,2.2,0.4166666666666667,0.4166666666666667,0.16666666666666666,"['Allardyced', 'CôteIvoriehasnoelephants', 'Kingozil', 'Wernham Hogpile', ""Where's Your Wissa Gone""]",2025-12-22T14:00:00Z
+Kalidou Koulibaly,Senegal,D,6.0,,,,31.1,0.4166666666666667,0.4166666666666667,,"['Bantah Boyz', 'CôteIvoriehasnoelephants', 'EvanRh', 'Wernham Hogpile', ""Where's Your Wissa Gone""]",2025-12-23T15:00:00Z
+Sadio Mané,Senegal,M,9.0,,,,29.2,0.4166666666666667,0.4166666666666667,,"['Allardyced', 'CôteIvoriehasnoelephants', 'EvanRh', 'Kingozil', ""Where's Your Wissa Gone""]",2025-12-23T15:00:00Z
+Amadou Dante,Mali,D,4.0,4.0,4.0,1.0,7.5,0.4166666666666667,0.3333333333333333,,"['Allardyced', 'CôteIvoriehasnoelephants', 'EvanRh', 'Kingozil', ""Where's Your Wissa Gone""]",2025-12-22T14:00:00Z
+Ali Abdi,Tunisia,M,6.5,,,,6.5,0.3333333333333333,0.3333333333333333,,"['Bantah Boyz', 'CôteIvoriehasnoelephants', 'Kingozil', ""Where's Your Wissa Gone""]",2025-12-23T20:00:00Z
+Romain Saïss,Morocco,D,5.5,1.0,1.0,1.0,6.0,0.3333333333333333,0.08333333333333333,,"['Allardyced', 'CôteIvoriehasnoelephants', 'EvanRh', ""Where's Your Wissa Gone""]",2025-12-21T19:00:00Z
+Azzedine Ounahi,Morocco,M,8.0,5.0,5.0,1.0,11.0,0.25,0.25,0.08333333333333333,"['CôteIvoriehasnoelephants', 'Draftalchemy', ""Where's Your Wissa Gone""]",2025-12-21T19:00:00Z
+Achraf Hakimi,Morocco,D,8.5,0.0,0.0,0.0,33.1,0.25,0.25,,"['BafanaBhoys', 'Bantah Boyz', ""Matt's Afrikaaners""]",2025-12-21T19:00:00Z
+Riyad Mahrez,Algeria,M,8.0,,,,17.1,0.25,0.25,,"['Allardyced', 'EvanRh', 'Wernham Hogpile']",2025-12-24T15:00:00Z
+Ademola Lookman,Nigeria,F,9.0,,,,9.4,0.25,0.25,,"['BafanaBhoys', 'Espresso All Stars', 'Little Bonne-key']",2025-12-23T17:30:00Z
+Luca Zidane,Algeria,G,5.0,,,,5.3,0.25,0.25,,"['BafanaBhoys', 'Little Bonne-key', ""Matt's Afrikaaners""]",2025-12-24T15:00:00Z
+Bryan Mbeumo,Cameroon,M,10.0,,,,26.1,0.25,0.16666666666666666,0.08333333333333333,"['Draftalchemy', 'Espresso All Stars', 'Little Bonne-key']",2025-12-24T20:00:00Z
+Ramy Bensebaini,Algeria,D,7.0,,,,10.5,0.25,0.16666666666666666,0.08333333333333333,"['Bantah Boyz', 'CôteIvoriehasnoelephants', 'Little Bonne-key']",2025-12-24T15:00:00Z
+Franck Kessié,Côte d'Ivoire,M,8.0,,,,9.2,0.25,0.16666666666666666,,"['CôteIvoriehasnoelephants', 'Kingozil', ""Where's Your Wissa Gone""]",2025-12-24T17:30:00Z
+Mohamed Salah,Egypt,M,12.0,,,,32.2,0.16666666666666666,0.16666666666666666,0.08333333333333333,"['EvanRh', ""Matt's Afrikaaners""]",2025-12-22T20:00:00Z
+Amad Diallo,Côte d'Ivoire,F,9.0,,,,23.3,0.16666666666666666,0.16666666666666666,,"['Espresso All Stars', 'Little Bonne-key']",2025-12-24T17:30:00Z
+Noussair Mazraoui,Morocco,D,8.0,12.0,12.0,1.0,9.4,0.16666666666666666,0.16666666666666666,,"['Little Bonne-key', ""Matt's Afrikaaners""]",2025-12-21T19:00:00Z
+Nayef Aguerd,Morocco,D,7.5,8.0,8.0,1.0,8.5,0.16666666666666666,0.16666666666666666,,"['Espresso All Stars', 'Kingozil']",2025-12-21T19:00:00Z
+Pape Matar Sarr,Senegal,M,6.5,,,,8.3,0.16666666666666666,0.16666666666666666,,"['BafanaBhoys', 'Little Bonne-key']",2025-12-23T15:00:00Z
+Nicolas Jackson,Senegal,F,7.5,,,,7.4,0.16666666666666666,0.16666666666666666,,"['Bantah Boyz', 'Little Bonne-key']",2025-12-23T15:00:00Z
+Mamadou Sarr,Senegal,D,5.5,,,,6.6,0.16666666666666666,0.16666666666666666,,"['BafanaBhoys', 'Kingozil']",2025-12-23T15:00:00Z
+Marvelous Nakamba,Zimbabwe,M,4.0,,,,3.2,0.16666666666666666,0.16666666666666666,,"['Bantah Boyz', 'EvanRh']",2025-12-22T20:00:00Z
+Baghdad Bounedjah,Algeria,F,7.0,,,,2.1,0.16666666666666666,0.08333333333333333,,"['Allardyced', 'BafanaBhoys']",2025-12-24T15:00:00Z
+Mbekezeli Mbokazi,South Africa,D,5.0,1.0,1.0,1.0,1.8,0.16666666666666666,0.08333333333333333,,"['Allardyced', 'BafanaBhoys']",2025-12-22T17:00:00Z
+Hazem Mastouri,Tunisia,F,5.5,,,,1.8,0.16666666666666666,0.08333333333333333,,"['Allardyced', ""Where's Your Wissa Gone""]",2025-12-23T20:00:00Z
+Samir Sophian Chergui,Algeria,D,5.0,,,,1.1,0.16666666666666666,0.08333333333333333,,"['Allardyced', 'Kingozil']",2025-12-24T15:00:00Z
+Soufiane Rahimi,Morocco,F,6.0,-3.0,-3.0,1.0,6.5,0.16666666666666666,,,"['EvanRh', 'Kingozil']",2025-12-21T19:00:00Z
+Teboho Mokoena,South Africa,M,6.0,2.0,2.0,1.0,6.9,0.08333333333333333,0.08333333333333333,0.08333333333333333,['EvanRh'],2025-12-22T17:00:00Z
+Lassine Sinayoko,Mali,F,6.5,10.0,10.0,1.0,1.4,0.08333333333333333,0.08333333333333333,0.08333333333333333,['Draftalchemy'],2025-12-22T14:00:00Z
+Omar Marmoush,Egypt,F,10.5,,,,22.0,0.08333333333333333,0.08333333333333333,,"[""Matt's Afrikaaners""]",2025-12-22T20:00:00Z
+Mohamed Amoura,Algeria,F,9.0,,,,9.9,0.08333333333333333,0.08333333333333333,,['Wernham Hogpile'],2025-12-24T15:00:00Z
+Calvin Bassey,Nigeria,D,7.0,,,,9.8,0.08333333333333333,0.08333333333333333,,['BafanaBhoys'],2025-12-23T17:30:00Z
+Edmond Tapsoba,Burkina Faso,D,7.5,,,,9.4,0.08333333333333333,0.08333333333333333,,['Espresso All Stars'],2025-12-24T12:30:00Z
+Shandre Campbell,South Africa,M,4.0,0.0,0.0,0.0,9.2,0.08333333333333333,0.08333333333333333,,['Bantah Boyz'],2025-12-22T17:00:00Z
+Mohamed Hany,Egypt,D,6.0,,,,8.8,0.08333333333333333,0.08333333333333333,,['EvanRh'],2025-12-22T20:00:00Z
+Anass Salah-Eddine,Morocco,D,6.0,15.0,15.0,1.0,7.1,0.08333333333333333,0.08333333333333333,,['Draftalchemy'],2025-12-21T19:00:00Z
+Semi Ajayi,Nigeria,D,6.0,,,,6.4,0.08333333333333333,0.08333333333333333,,['Draftalchemy'],2025-12-23T17:30:00Z
+Ousmane Camara,Mali,D,6.0,0.0,0.0,0.0,6.1,0.08333333333333333,0.08333333333333333,,['Espresso All Stars'],2025-12-22T14:00:00Z
+Jawad El Yamiq,Morocco,D,6.0,8.0,8.0,0.0,5.6,0.08333333333333333,0.08333333333333333,,['Wernham Hogpile'],2025-12-21T19:00:00Z
+Moussa Niakhaté,Senegal,D,6.5,,,,5.4,0.08333333333333333,0.08333333333333333,,['Draftalchemy'],2025-12-23T15:00:00Z
+Mohamed Hamdi,Egypt,D,6.0,,,,5.3,0.08333333333333333,0.08333333333333333,,['Bantah Boyz'],2025-12-22T20:00:00Z
+Mabululu,Angola,F,6.0,0.0,0.0,0.0,5.1,0.08333333333333333,0.08333333333333333,,['CôteIvoriehasnoelephants'],2025-12-22T17:00:00Z
+Ismael Saibari,Morocco,M,8.0,4.0,4.0,1.0,5.0,0.08333333333333333,0.08333333333333333,,['Little Bonne-key'],2025-12-21T19:00:00Z
+Oswin Appollis,South Africa,M,6.0,7.0,7.0,1.0,4.6,0.08333333333333333,0.08333333333333333,,['Bantah Boyz'],2025-12-22T17:00:00Z
+Noah Sadiki,DR Congo,M,7.5,,,,3.9,0.08333333333333333,0.08333333333333333,,['Espresso All Stars'],2025-12-23T12:30:00Z
+Ousmane Diomande,Côte d'Ivoire,D,7.0,,,,3.9,0.08333333333333333,0.08333333333333333,,['Little Bonne-key'],2025-12-24T17:30:00Z
+Houssem Aouar,Algeria,M,6.5,,,,3.5,0.08333333333333333,0.08333333333333333,,['BafanaBhoys'],2025-12-24T15:00:00Z
+Zaidu Sanusi,Nigeria,D,5.5,,,,3.4,0.08333333333333333,0.08333333333333333,,"[""Where's Your Wissa Gone""]",2025-12-23T17:30:00Z
+Elias Achouri,Tunisia,M,6.0,,,,3.2,0.08333333333333333,0.08333333333333333,,"[""Matt's Afrikaaners""]",2025-12-23T20:00:00Z
+Lamine Camara,Senegal,M,7.5,,,,2.8,0.08333333333333333,0.08333333333333333,,['Draftalchemy'],2025-12-23T15:00:00Z
+Dango Ouattara,Burkina Faso,F,7.5,,,,2.7,0.08333333333333333,0.08333333333333333,,['BafanaBhoys'],2025-12-24T12:30:00Z
+Ayoub El Kaabi,Morocco,F,7.5,6.0,6.0,0.0,2.5,0.08333333333333333,0.08333333333333333,,['Draftalchemy'],2025-12-21T19:00:00Z
+Nouhou Tolo,Cameroon,D,5.5,,,,2.5,0.08333333333333333,0.08333333333333333,,['BafanaBhoys'],2025-12-24T20:00:00Z
+Samuel Essende,DR Congo,F,6.0,,,,2.3,0.08333333333333333,0.08333333333333333,,['Espresso All Stars'],2025-12-23T12:30:00Z
+Matthieu Epolo,DR Congo,G,4.0,,,,1.6,0.08333333333333333,0.08333333333333333,,['Draftalchemy'],2025-12-23T12:30:00Z
+Adem Arous,Tunisia,D,4.0,,,,1.2,0.08333333333333333,0.08333333333333333,,['Draftalchemy'],2025-12-23T20:00:00Z
+Gelson Dala,Angola,F,5.5,1.0,1.0,1.0,0.9,0.08333333333333333,0.08333333333333333,,['Wernham Hogpile'],2025-12-22T17:00:00Z
+Javier Mum,Equatorial Guinea,D,4.0,,,,0.7,0.08333333333333333,0.08333333333333333,,"[""Matt's Afrikaaners""]",2025-12-24T12:30:00Z
+Kenneth Semakula,Uganda,M,4.0,,,,0.6,0.08333333333333333,0.08333333333333333,,"[""Matt's Afrikaaners""]",2025-12-23T20:00:00Z
+Ebenezer Akinsanmiro,Nigeria,M,5.0,,,,0.5,0.08333333333333333,0.08333333333333333,,['Draftalchemy'],2025-12-23T17:30:00Z
+Marcel Dandjinou,Benin,G,4.0,,,,0.5,0.08333333333333333,0.08333333333333333,,['Kingozil'],2025-12-23T12:30:00Z
+Kennedy Musonda,Zambia,F,5.0,1.0,1.0,0.0,0.3,0.08333333333333333,0.08333333333333333,,['Bantah Boyz'],2025-12-22T14:00:00Z
+Jonathan Do Marcolino,Gabon,D,4.0,,,,0.3,0.08333333333333333,0.08333333333333333,,"[""Matt's Afrikaaners""]",2025-12-24T20:00:00Z
+Altayeb Abaker,Sudan,D,4.0,,,,0.3,0.08333333333333333,0.08333333333333333,,['Espresso All Stars'],2025-12-24T15:00:00Z
+Teenage Hadebe,Zimbabwe,D,4.5,,,,0.2,0.08333333333333333,0.08333333333333333,,['Wernham Hogpile'],2025-12-22T20:00:00Z
+Edouard Mendy,Senegal,G,5.5,,,,21.1,0.08333333333333333,,,['Espresso All Stars'],2025-12-23T15:00:00Z
+Hervé Koffi,Burkina Faso,G,6.0,,,,13.3,0.08333333333333333,,,['Draftalchemy'],2025-12-24T12:30:00Z
+Mohamed Tougai,Algeria,D,4.0,,,,7.9,0.08333333333333333,,,['Wernham Hogpile'],2025-12-24T15:00:00Z
+Steven Mukwala,Uganda,F,4.0,,,,2.7,0.08333333333333333,,,['CôteIvoriehasnoelephants'],2025-12-23T20:00:00Z
+Dylan Bronn,Tunisia,D,5.5,,,,2.5,0.08333333333333333,,,['Wernham Hogpile'],2025-12-23T20:00:00Z
+Nasser Djiga,Burkina Faso,D,5.5,,,,2.2,0.08333333333333333,,,['Draftalchemy'],2025-12-24T12:30:00Z
+Emilio Nsue,Equatorial Guinea,F,5.5,,,,2.0,0.08333333333333333,,,"[""Where's Your Wissa Gone""]",2025-12-24T12:30:00Z
+Shomari Kapombe,Tanzania,D,4.0,,,,2.0,0.08333333333333333,,,['EvanRh'],2025-12-23T17:30:00Z
+Ilan Kebbal,Algeria,M,6.5,,,,1.9,0.08333333333333333,,,['Draftalchemy'],2025-12-24T15:00:00Z
+Hamza Igamane,Morocco,F,5.5,,,,1.7,0.08333333333333333,,,['Espresso All Stars'],2025-12-21T19:00:00Z
+Georges-Kévin N'Koudou,Cameroon,M,5.5,,,,1.6,0.08333333333333333,,,['Espresso All Stars'],2025-12-24T20:00:00Z
+David Owori,Uganda,M,4.0,,,,1.4,0.08333333333333333,,,"[""Matt's Afrikaaners""]",2025-12-23T20:00:00Z
+Novatus Miroshi,Tanzania,M,5.5,,,,1.2,0.08333333333333333,,,['Wernham Hogpile'],2025-12-23T17:30:00Z
+Shanganani Nganda,Botswana,D,4.0,,,,1.2,0.08333333333333333,,,['Espresso All Stars'],2025-12-23T15:00:00Z
+Frankie Musonda,Zambia,D,4.0,0.0,0.0,0.0,1.1,0.08333333333333333,,,['Little Bonne-key'],2025-12-22T14:00:00Z
+Dickson Job,Tanzania,D,4.0,,,,0.8,0.08333333333333333,,,"[""Matt's Afrikaaners""]",2025-12-23T17:30:00Z
+Manuel Benson,Angola,M,5.0,0.0,0.0,0.0,0.7,0.08333333333333333,,,['BafanaBhoys'],2025-12-22T17:00:00Z
+Yakoub Suleiman,Tanzania,G,4.5,,,,0.7,0.08333333333333333,,,['BafanaBhoys'],2025-12-23T17:30:00Z
+Iban Salvador,Equatorial Guinea,F,4.5,,,,0.6,0.08333333333333333,,,['Kingozil'],2025-12-24T12:30:00Z
+Basilio Ndong,Equatorial Guinea,D,4.5,,,,0.3,0.08333333333333333,,,['Allardyced'],2025-12-24T12:30:00Z
+Sessi D'Almeida,Benin,M,4.5,,,,0.3,0.08333333333333333,,,"[""Matt's Afrikaaners""]",2025-12-23T12:30:00Z
+Brendan Galloway,Zimbabwe,D,4.0,,,,0.3,0.08333333333333333,,,['Little Bonne-key'],2025-12-22T20:00:00Z
+Macauley Bonne,Zimbabwe,F,4.0,,,,0.3,0.08333333333333333,,,['Little Bonne-key'],2025-12-22T20:00:00Z
+Adebiyi Marcel Serge Obassa,Benin,G,4.0,,,,0.2,0.08333333333333333,,,['Little Bonne-key'],2025-12-23T12:30:00Z
+Ronwen Williams,South Africa,G,5.5,4.0,4.0,1.0,18.2,,,,,2025-12-22T17:00:00Z
+Rayan Aït-Nouri,Algeria,M,7.0,,,,17.3,,,,,2025-12-24T15:00:00Z
+Mohamed El-Shenawy,Egypt,G,6.0,,,,15.4,,,,,2025-12-22T20:00:00Z
+Aaron Wan-Bissaka,DR Congo,D,7.0,,,,15.2,,,,,2025-12-23T12:30:00Z
+Chancel Mbemba,DR Congo,D,6.5,,,,12.7,,,,,2025-12-23T12:30:00Z
+Yves Bissouma,Mali,M,6.0,,,,10.9,,,,,2025-12-22T14:00:00Z
+Guéla Doué,Côte d'Ivoire,D,6.0,,,,10.4,,,,,2025-12-24T17:30:00Z
+Yahia Fofana,Côte d'Ivoire,G,5.5,,,,8.7,,,,,2025-12-24T17:30:00Z
+Emam Ashour,Egypt,M,6.0,,,,8.5,,,,,2025-12-22T20:00:00Z
+Aïssa Mandi,Algeria,D,6.0,,,,8.4,,,,,2025-12-24T15:00:00Z
+Pierre-Emerick Aubameyang,Gabon,F,10.0,,,,8.0,,,,,2025-12-24T20:00:00Z
+Youssef En-Nesyri,Morocco,F,8.0,2.0,2.0,0.0,7.9,,,,,2025-12-21T19:00:00Z
+Arthur Masuaku,DR Congo,D,6.0,,,,7.9,,,,,2025-12-23T12:30:00Z
+Axel Tuanzebe,DR Congo,D,6.0,,,,7.7,,,,,2025-12-23T12:30:00Z
+Issa Kaboré,Burkina Faso,D,6.0,,,,7.5,,,,,2025-12-24T12:30:00Z
+Alex Iwobi,Nigeria,M,8.5,,,,6.7,,,,,2025-12-23T17:30:00Z
+Ismaïla Sarr,Senegal,F,8.0,,,,6.6,,,,,2025-12-23T15:00:00Z
+Fiston Mayele,DR Congo,F,6.0,,,,6.3,,,,,2025-12-23T12:30:00Z
+Evan Ndicka,Côte d'Ivoire,D,7.5,,,,6.2,,,,,2025-12-24T17:30:00Z
+Saúl Coco,Equatorial Guinea,D,6.0,,,,6.0,,,,,2025-12-24T12:30:00Z
+David Carmo,Angola,D,6.0,0.0,0.0,0.0,5.7,,,,,2025-12-22T17:00:00Z
+Ahmed Fatouh,Egypt,D,6.0,,,,5.6,,,,,2025-12-22T20:00:00Z
+Khuliso Mudau,South Africa,D,5.5,1.0,1.0,1.0,5.5,,,,,2025-12-22T17:00:00Z
+Youcef Atal,Algeria,D,5.5,,,,5.4,,,,,2025-12-24T15:00:00Z
+Darlin Yongwa,Cameroon,D,6.0,,,,5.3,,,,,2025-12-24T20:00:00Z
+Aaron Appindangoyé,Gabon,D,6.0,,,,5.3,,,,,2025-12-24T20:00:00Z
+Sébastien Haller,Côte d'Ivoire,F,6.5,,,,5.2,,,,,2025-12-24T17:30:00Z
+Carlos Baleba,Cameroon,M,7.0,,,,5.1,,,,,2025-12-24T20:00:00Z
+Reinildo Mandava,Mozambique,D,5.5,,,,5.1,,,,,2025-12-24T17:30:00Z
+Abdelhamid Ait Boudlal,Morocco,D,6.0,0.0,0.0,0.0,4.8,,,,,2025-12-21T19:00:00Z
+Zizo,Egypt,M,7.5,,,,4.7,,,,,2025-12-22T20:00:00Z
+Sofyan Amrabat,Morocco,M,6.5,4.0,4.0,1.0,4.6,,,,,2025-12-21T19:00:00Z
+Montassar Talbi,Tunisia,D,6.5,,,,4.6,,,,,2025-12-23T20:00:00Z
+Ali Maâloul,Tunisia,D,4.5,,,,4.6,,,,,2025-12-23T20:00:00Z
+Cédric Bakambu,DR Congo,F,7.0,,,,4.5,,,,,2025-12-23T12:30:00Z
+Abdessamad Ezzalzouli,Morocco,M,7.0,2.0,2.0,0.0,4.4,,,,,2025-12-21T19:00:00Z
+Idrissa Gueye,Senegal,M,6.5,,,,4.4,,,,,2025-12-23T15:00:00Z
+Kabelo Dambe,Botswana,G,4.0,,,,4.4,,,,,2025-12-23T15:00:00Z
+Hannibal Mejbri,Tunisia,M,6.5,,,,4.3,,,,,2025-12-23T20:00:00Z
+Samuel Chukwueze,Nigeria,F,8.0,,,,4.2,,,,,2025-12-23T17:30:00Z
+Mahmoud Trézéguet,Egypt,M,8.0,,,,4.2,,,,,2025-12-22T20:00:00Z
+Ibrahim Maza,Algeria,M,7.0,,,,4.2,,,,,2025-12-24T15:00:00Z
+Ellyes Skhiri,Tunisia,M,6.0,,,,4.1,,,,,2025-12-23T20:00:00Z
+El Hadji Malick Diouf,Senegal,M,5.5,,,,4.1,,,,,2025-12-23T15:00:00Z
+Emmanuel Agbadou,Côte d'Ivoire,D,6.5,,,,4.0,,,,,2025-12-24T17:30:00Z
+Amadou Haidara,Mali,M,6.0,0.0,0.0,0.0,3.9,,,,,2025-12-22T14:00:00Z
+Yan Diomande,Côte d'Ivoire,F,8.5,,,,3.9,,,,,2025-12-24T17:30:00Z
+Seko Fofana,Côte d'Ivoire,M,7.5,,,,3.8,,,,,2025-12-24T17:30:00Z
+Gedeon Kalulu,DR Congo,D,5.0,,,,3.8,,,,,2025-12-23T12:30:00Z
+Théo Bongonda,DR Congo,M,6.0,,,,3.7,,,,,2025-12-23T12:30:00Z
+Elias Saad,Tunisia,F,6.0,,,,3.7,,,,,2025-12-23T20:00:00Z
+Ismaël Bennacer,Algeria,M,7.0,,,,3.6,,,,,2025-12-24T15:00:00Z
+Wilfred Ndidi,Nigeria,M,6.5,,,,3.6,,,,,2025-12-23T17:30:00Z
+Ibrahima Sissoko,Mali,M,6.0,0.0,0.0,0.0,3.5,,,,,2025-12-22T14:00:00Z
+Ismail Jakobs,Senegal,D,5.5,,,,3.5,,,,,2025-12-23T15:00:00Z
+Aliou Dieng,Mali,M,6.0,1.0,1.0,1.0,3.4,,,,,2025-12-22T14:00:00Z
+Lassana Coulibaly,Mali,M,6.0,0.0,0.0,0.0,3.4,,,,,2025-12-22T14:00:00Z
+Wilfried Zaha,Côte d'Ivoire,M,8.0,,,,3.4,,,,,2025-12-24T17:30:00Z
+Rami Rabia,Egypt,D,6.5,,,,3.4,,,,,2025-12-22T20:00:00Z
+Chidera Ejuke,Nigeria,M,6.0,,,,3.4,,,,,2025-12-23T17:30:00Z
+Ghislain Konan,Côte d'Ivoire,D,5.5,,,,3.4,,,,,2025-12-24T17:30:00Z
+Chicco Molefe,Botswana,D,4.0,,,,3.4,,,,,2025-12-23T15:00:00Z
+Raphael Onyedika,Nigeria,M,6.0,,,,3.3,,,,,2025-12-23T17:30:00Z
+Fredy,Angola,M,6.0,7.0,7.0,1.0,3.2,,,,,2025-12-22T17:00:00Z
+Aymen Dahmen,Tunisia,G,5.0,,,,3.2,,,,,2025-12-23T20:00:00Z
+Lyle Foster,South Africa,F,6.5,5.0,5.0,1.0,3.1,,,,,2025-12-22T17:00:00Z
+Chemsdine Talbi,Morocco,M,5.5,0.0,0.0,0.0,3.1,,,,,2025-12-21T19:00:00Z
+Odilon Kossounou,Côte d'Ivoire,D,7.0,,,,3.1,,,,,2025-12-24T17:30:00Z
+Flavien Boyomo,Cameroon,D,6.5,,,,3.1,,,,,2025-12-24T20:00:00Z
+Etta Eyong,Cameroon,F,6.5,,,,3.1,,,,,2025-12-24T20:00:00Z
+Seifeddine Jaziri,Tunisia,F,6.0,,,,3.0,,,,,2025-12-23T20:00:00Z
+Assane Diao,Senegal,F,6.0,,,,3.0,,,,,2025-12-23T15:00:00Z
+Yan Valery,Tunisia,D,5.5,,,,3.0,,,,,2025-12-23T20:00:00Z
+Ilias Akhomach,Morocco,M,6.0,0.0,0.0,0.0,2.9,,,,,2025-12-21T19:00:00Z
+Mostafa Mohamed,Egypt,F,7.0,,,,2.9,,,,,2025-12-22T20:00:00Z
+Christ Inao Oulaï,Côte d'Ivoire,M,6.0,,,,2.9,,,,,2025-12-24T17:30:00Z
+Boulaye Dia,Senegal,F,6.0,,,,2.9,,,,,2025-12-23T15:00:00Z
+Sikou Niakaté,Mali,D,5.5,,,,2.9,,,,,2025-12-22T14:00:00Z
+Jaouen Hadjam,Algeria,D,5.5,,,,2.9,,,,,2025-12-24T15:00:00Z
+Bright Osayi-Samuel,Nigeria,D,5.5,,,,2.9,,,,,2025-12-23T17:30:00Z
+Clinton Mata,Angola,D,6.5,1.0,1.0,1.0,2.8,,,,,2025-12-22T17:00:00Z
+Mohamed Ali Ben Romdhane,Tunisia,M,6.5,,,,2.8,,,,,2025-12-23T20:00:00Z
+Paul Onuachu,Nigeria,F,6.0,,,,2.8,,,,,2025-12-23T17:30:00Z
+Omar Mascarell,Equatorial Guinea,M,6.0,,,,2.8,,,,,2025-12-24T12:30:00Z
+Simon Banza,DR Congo,F,6.0,,,,2.8,,,,,2025-12-23T12:30:00Z
+Christian Bassogog,Cameroon,M,6.0,,,,2.8,,,,,2025-12-24T20:00:00Z
+Fisayo Dele-Bashiru,Nigeria,M,6.0,,,,2.8,,,,,2025-12-23T17:30:00Z
+Jim Allevinah,Gabon,M,6.0,,,,2.8,,,,,2025-12-24T20:00:00Z
+Losika Ratshukudu,Botswana,M,4.0,,,,2.8,,,,,2025-12-23T15:00:00Z
+Habib Diallo,Senegal,F,6.0,,,,2.7,,,,,2025-12-23T15:00:00Z
+Cherif Ndiaye,Senegal,F,6.0,,,,2.7,,,,,2025-12-23T15:00:00Z
+Jean-Philippe Gbamin,Côte d'Ivoire,M,6.0,,,,2.7,,,,,2025-12-24T17:30:00Z
+Junior Dina Ebimbe,Cameroon,M,6.0,,,,2.7,,,,,2025-12-24T20:00:00Z
+Michel Ange Balikwisha,DR Congo,M,6.0,,,,2.7,,,,,2025-12-23T12:30:00Z
+Christopher Wooh,Cameroon,D,5.5,,,,2.7,,,,,2025-12-24T20:00:00Z
+Show,Angola,M,6.0,8.0,8.0,1.0,2.6,,,,,2025-12-22T17:00:00Z
+Patson Daka,Zambia,F,5.5,8.0,8.0,1.0,2.6,,,,,2025-12-22T14:00:00Z
+Rafiki Saïd,Comoros,M,6.0,2.0,2.0,1.0,2.6,,,,,2025-12-21T19:00:00Z
+Aubrey Modiba,South Africa,D,5.5,2.0,2.0,1.0,2.6,,,,,2025-12-22T17:00:00Z
+Zito Luvumbo,Angola,F,6.0,0.0,0.0,1.0,2.6,,,,,2025-12-22T17:00:00Z
+Ibrahim Sangaré,Côte d'Ivoire,M,8.5,,,,2.6,,,,,2025-12-24T17:30:00Z
+Monsef Bakrar,Algeria,F,6.0,,,,2.6,,,,,2025-12-24T15:00:00Z
+Malick Evouna,Gabon,M,6.0,,,,2.6,,,,,2025-12-24T20:00:00Z
+Joris Kayembe,DR Congo,D,5.5,,,,2.6,,,,,2025-12-23T12:30:00Z
+Issoufou Dayo,Burkina Faso,D,5.5,,,,2.6,,,,,2025-12-24T12:30:00Z
+Houssem Teka,Tunisia,M,4.0,,,,2.6,,,,,2025-12-23T20:00:00Z
+Kialonda Gaspar,Angola,D,6.5,0.0,0.0,1.0,2.5,,,,,2025-12-22T17:00:00Z
+Siyabonga Ngezana,South Africa,D,5.5,0.0,0.0,1.0,2.4,,,,,2025-12-22T17:00:00Z
+Pape Gueye,Senegal,M,7.0,,,,2.4,,,,,2025-12-23T15:00:00Z
+Mohanad Lasheen,Egypt,M,6.0,,,,2.4,,,,,2025-12-22T20:00:00Z
+Zini,Angola,F,6.0,,,,2.4,,,,,2025-12-22T17:00:00Z
+Adil Boulbina,Algeria,M,5.5,,,,2.3,,,,,2025-12-24T15:00:00Z
+Jean-Charles Castelletto,Cameroon,D,5.5,,,,2.3,,,,,2025-12-24T20:00:00Z
+Bruno Onyemaechi,Nigeria,D,5.5,,,,2.3,,,,,2025-12-23T17:30:00Z
+Alban Lafont,Côte d'Ivoire,G,4.5,,,,2.3,,,,,2025-12-24T17:30:00Z
+Hamari Traoré,Mali,D,5.0,0.0,0.0,0.0,2.2,,,,,2025-12-22T14:00:00Z
+Lionel M'Pasi,DR Congo,G,5.0,,,,2.2,,,,,2025-12-23T12:30:00Z
+Willy Boly,Côte d'Ivoire,D,5.0,,,,2.2,,,,,2025-12-24T17:30:00Z
+Mario Lemina,Gabon,M,7.0,,,,2.1,,,,,2025-12-24T20:00:00Z
+Steeve Yago,Burkina Faso,D,5.5,,,,2.1,,,,,2025-12-24T12:30:00Z
+Evann Guessand,Côte d'Ivoire,F,5.5,,,,2.1,,,,,2025-12-24T17:30:00Z
+Redouane Berkane,Algeria,F,4.0,,,,2.1,,,,,2025-12-24T15:00:00Z
+Eliesse Ben Seghir,Morocco,M,7.0,0.0,0.0,0.0,2.0,,,,,2025-12-21T19:00:00Z
+Adam Masina,Morocco,D,5.5,0.0,0.0,0.0,2.0,,,,,2025-12-21T19:00:00Z
+Relebohile Mofokeng,South Africa,M,4.5,0.0,0.0,0.0,2.0,,,,,2025-12-22T17:00:00Z
+Farès Chaïbi,Algeria,M,6.5,,,,2.0,,,,,2025-12-24T15:00:00Z
+Yasser Ibrahim,Egypt,D,4.5,,,,2.0,,,,,2025-12-22T20:00:00Z
+Djigui Diarra,Mali,G,5.0,1.0,1.0,1.0,1.9,,,,,2025-12-22T14:00:00Z
+Mohamed Camara,Mali,M,5.0,0.0,0.0,0.0,1.9,,,,,2025-12-22T14:00:00Z
+Frank Onyeka,Nigeria,M,6.5,,,,1.9,,,,,2025-12-23T17:30:00Z
+Jacques Ekomie,Gabon,D,5.5,,,,1.9,,,,,2025-12-24T20:00:00Z
+Rocky Bushiri Kiranga,DR Congo,D,5.5,,,,1.9,,,,,2025-12-23T12:30:00Z
+Jonathan Buatu,Angola,D,5.5,1.0,1.0,1.0,1.8,,,,,2025-12-22T17:00:00Z
+Ismael Gharbi,Tunisia,M,6.5,,,,1.8,,,,,2025-12-23T20:00:00Z
+Junior Tchamadeu,Cameroon,D,5.5,,,,1.8,,,,,2025-12-24T20:00:00Z
+Bruno Ecuele Manga,Gabon,D,5.5,,,,1.8,,,,,2025-12-24T20:00:00Z
+Dorgeles Nene,Mali,F,6.5,6.0,6.0,1.0,1.7,,,,,2025-12-22T14:00:00Z
+Mohau Nkota,South Africa,M,5.5,1.0,1.0,1.0,1.7,,,,,2025-12-22T17:00:00Z
+Oumar Diakité,Côte d'Ivoire,F,6.5,,,,1.7,,,,,2025-12-24T17:30:00Z
+Gustavo Sangaré,Burkina Faso,M,5.5,,,,1.7,,,,,2025-12-24T12:30:00Z
+Pathé Ismaël Ciss,Senegal,M,5.5,,,,1.7,,,,,2025-12-23T15:00:00Z
+Ibrahim Blati Tourè,Burkina Faso,M,5.5,,,,1.7,,,,,2025-12-24T12:30:00Z
+Yassine Meriah,Tunisia,D,5.0,,,,1.7,,,,,2025-12-23T20:00:00Z
+Mostafa Shobeir,Egypt,G,4.5,,,,1.7,,,,,2025-12-22T20:00:00Z
+Elias Mrugau Maguli,Tanzania,F,4.0,,,,1.7,,,,,2025-12-23T17:30:00Z
+Bertrand Traoré,Burkina Faso,F,8.0,,,,1.6,,,,,2025-12-24T12:30:00Z
+Ibrahim Mbaye,Senegal,F,7.5,,,,1.6,,,,,2025-12-23T15:00:00Z
+Ferjani Sassi,Tunisia,M,6.5,,,,1.6,,,,,2025-12-23T20:00:00Z
+Moses Simon,Nigeria,F,6.5,,,,1.6,,,,,2025-12-23T17:30:00Z
+Krépin Diatta,Senegal,M,6.0,,,,1.6,,,,,2025-12-23T15:00:00Z
+Samuel Moutoussamy,DR Congo,M,5.5,,,,1.6,,,,,2025-12-23T12:30:00Z
+Abdelrazig Omer,Sudan,M,4.0,,,,1.6,,,,,2025-12-24T15:00:00Z
+Mahamadou Nagida,Cameroon,D,4.0,,,,1.6,,,,,2025-12-24T20:00:00Z
+Bilal El Khannouss,Morocco,M,8.0,1.0,1.0,0.0,1.5,,,,,2025-12-21T19:00:00Z
+Fodé Doucouré,Mali,M,5.5,0.0,0.0,0.0,1.5,,,,,2025-12-22T14:00:00Z
+Rafik Belghali,Algeria,M,5.5,,,,1.5,,,,,2025-12-24T15:00:00Z
+Gaoussou Diarra,Mali,M,5.5,1.0,1.0,0.0,1.4,,,,,2025-12-22T14:00:00Z
+Mamadou Fofana,Mali,D,5.0,1.0,1.0,1.0,1.4,,,,,2025-12-22T14:00:00Z
+Woyo Coulibaly,Mali,D,4.5,1.0,1.0,1.0,1.4,,,,,2025-12-22T14:00:00Z
+Milson,Angola,M,5.5,0.0,0.0,0.0,1.4,,,,,2025-12-22T17:00:00Z
+Anis Hadj Moussa,Algeria,F,7.0,,,,1.4,,,,,2025-12-24T15:00:00Z
+Guélor Kanga,Gabon,M,5.5,,,,1.4,,,,,2025-12-24T20:00:00Z
+Adem Zorgane,Algeria,M,5.5,,,,1.4,,,,,2025-12-24T15:00:00Z
+Junior Olaitan,Benin,M,5.5,,,,1.4,,,,,2025-12-23T12:30:00Z
+Jean Michaël Seri,Côte d'Ivoire,M,5.5,,,,1.4,,,,,2025-12-24T17:30:00Z
+Cyriaque Irié,Burkina Faso,M,5.5,,,,1.4,,,,,2025-12-24T12:30:00Z
+Jean Onana,Cameroon,M,5.5,,,,1.4,,,,,2025-12-24T20:00:00Z
+Georgi Minoungou,Burkina Faso,M,5.0,,,,1.4,,,,,2025-12-24T12:30:00Z
+Francis Uzoho,Nigeria,G,4.5,,,,1.4,,,,,2025-12-23T17:30:00Z
+Maestro,Angola,M,5.5,0.0,0.0,1.0,1.3,,,,,2025-12-22T17:00:00Z
+Denis Bouanga,Gabon,F,8.0,,,,1.3,,,,,2025-12-24T20:00:00Z
+Naïm Sliti,Tunisia,M,6.5,,,,1.3,,,,,2025-12-23T20:00:00Z
+Meschack Elia,DR Congo,F,6.5,,,,1.3,,,,,2025-12-23T12:30:00Z
+Sebastian Tounekti,Tunisia,M,5.5,,,,1.3,,,,,2025-12-23T20:00:00Z
+Antoine Mendy,Senegal,D,5.0,,,,1.3,,,,,2025-12-23T15:00:00Z
+Akor Adams,Nigeria,F,5.0,,,,1.3,,,,,2025-12-23T17:30:00Z
+Youssouf M'Changama,Comoros,M,5.5,4.0,4.0,1.0,1.2,,,,,2025-12-21T19:00:00Z
+Tylon Smith,South Africa,D,4.0,0.0,0.0,0.0,1.2,,,,,2025-12-22T17:00:00Z
+Hicham Boudaoui,Algeria,M,6.5,,,,1.2,,,,,2025-12-24T15:00:00Z
+Mohamed Shehata,Egypt,M,5.5,,,,1.2,,,,,2025-12-22T20:00:00Z
+Pedro Obiang,Equatorial Guinea,M,5.5,,,,1.2,,,,,2025-12-24T12:30:00Z
+Stephane Aziz Ki,Burkina Faso,F,5.5,,,,1.2,,,,,2025-12-24T12:30:00Z
+Mohamed Zougrana,Burkina Faso,M,5.5,,,,1.2,,,,,2025-12-24T12:30:00Z
+Royce Openda,Gabon,F,5.5,,,,1.2,,,,,2025-12-24T20:00:00Z
+Ilay Camara,Senegal,M,4.5,,,,1.2,,,,,2025-12-23T15:00:00Z
+Firas Chaouat,Tunisia,F,4.5,,,,1.2,,,,,2025-12-23T20:00:00Z
+Beni Mukendi,Angola,M,5.5,0.0,0.0,0.0,1.1,,,,,2025-12-22T17:00:00Z
+M'Bala Nzola,Angola,F,5.5,0.0,0.0,1.0,1.1,,,,,2025-12-22T17:00:00Z
+Thalente Mbatha,South Africa,M,5.5,0.0,0.0,0.0,1.1,,,,,2025-12-22T17:00:00Z
+Bathusi Aubaas,South Africa,M,5.5,0.0,0.0,0.0,1.1,,,,,2025-12-22T17:00:00Z
+Rui Modesto,Angola,M,5.5,0.0,0.0,0.0,1.1,,,,,2025-12-22T17:00:00Z
+Arthur Avom Ebong,Cameroon,M,6.5,,,,1.1,,,,,2025-12-24T20:00:00Z
+Jean-Philippe Krasso,Côte d'Ivoire,F,6.5,,,,1.1,,,,,2025-12-24T17:30:00Z
+Olivier Kemen,Cameroon,M,5.5,,,,1.1,,,,,2025-12-24T20:00:00Z
+Pablo Ganet,Equatorial Guinea,M,5.5,,,,1.1,,,,,2025-12-24T12:30:00Z
+André Poko,Gabon,M,5.5,,,,1.1,,,,,2025-12-24T20:00:00Z
+Didier N'Dong,Gabon,M,5.5,,,,1.1,,,,,2025-12-24T20:00:00Z
+Mbwana Ally Samatta,Tanzania,F,5.5,,,,1.1,,,,,2025-12-23T17:30:00Z
+Jérémy Oyono,Gabon,M,5.5,,,,1.1,,,,,2025-12-24T20:00:00Z
+Devis Epassy,Cameroon,G,5.0,,,,1.1,,,,,2025-12-24T20:00:00Z
+Timothy Fayulu,DR Congo,G,4.5,,,,1.1,,,,,2025-12-23T12:30:00Z
+Mory Diaw,Senegal,G,4.0,,,,1.1,,,,,2025-12-23T15:00:00Z
+Mohamed Tijani,Benin,D,4.0,,,,1.1,,,,,2025-12-23T12:30:00Z
+Travis Mutyaba,Uganda,M,4.0,,,,1.1,,,,,2025-12-23T20:00:00Z
+Mohamed Kasri,Sudan,D,4.0,,,,1.1,,,,,2025-12-24T15:00:00Z
+Mamadou Sangare,Mali,M,7.5,7.0,7.0,1.0,1.0,,,,,2025-12-22T14:00:00Z
+Neil El Aynaoui,Morocco,M,7.5,3.0,3.0,1.0,1.0,,,,,2025-12-21T19:00:00Z
+El Bilal Touré,Mali,F,7.0,0.0,0.0,1.0,1.0,,,,,2025-12-22T14:00:00Z
+Mohamed Chibi,Morocco,D,5.0,0.0,0.0,0.0,1.0,,,,,2025-12-21T19:00:00Z
+Ramiz Zerrouki,Algeria,M,6.5,,,,1.0,,,,,2025-12-24T15:00:00Z
+Edo Kayembe,DR Congo,M,6.5,,,,1.0,,,,,2025-12-23T12:30:00Z
+Ibrahim Adel,Egypt,M,6.5,,,,1.0,,,,,2025-12-22T20:00:00Z
+Charles Pickel,DR Congo,M,6.5,,,,1.0,,,,,2025-12-23T12:30:00Z
+Ryan Alebiosu,Nigeria,M,5.5,,,,1.0,,,,,2025-12-23T17:30:00Z
+Parfait Guiagon,Côte d'Ivoire,M,5.5,,,,1.0,,,,,2025-12-24T17:30:00Z
+Hassane Imourane,Benin,M,5.5,,,,1.0,,,,,2025-12-23T12:30:00Z
+Martin Ndzie,Cameroon,M,5.5,,,,1.0,,,,,2025-12-24T20:00:00Z
+Arsène Kouassi,Burkina Faso,D,5.0,,,,1.0,,,,,2025-12-24T12:30:00Z
+Yehvann Diouf,Senegal,G,4.5,,,,1.0,,,,,2025-12-23T15:00:00Z
+Rassoul Ndiaye,Senegal,M,4.5,,,,1.0,,,,,2025-12-23T15:00:00Z
+Ahmed El-Shenawy,Egypt,G,4.5,,,,1.0,,,,,2025-12-22T20:00:00Z
+Bechir Ben Said,Tunisia,G,4.0,,,,1.0,,,,,2025-12-23T20:00:00Z
+Charles Lukwago,Uganda,G,4.0,,,,1.0,,,,,2025-12-23T20:00:00Z
+Tadiwa Chakuchichi,Zimbabwe,F,4.0,,,,1.0,,,,,2025-12-22T20:00:00Z
+Fashion Sakala,Zambia,F,5.0,4.0,4.0,1.0,0.9,,,,,2025-12-22T14:00:00Z
+Lameck Banda,Zambia,M,5.0,1.0,1.0,1.0,0.9,,,,,2025-12-22T14:00:00Z
+Nkosinathi Sibisi,South Africa,D,4.5,0.0,0.0,0.0,0.9,,,,,2025-12-22T17:00:00Z
+Aiyegun Tosin,Benin,F,5.5,,,,0.9,,,,,2025-12-23T12:30:00Z
+Pierre Landry Kaboré,Burkina Faso,F,5.5,,,,0.9,,,,,2025-12-24T12:30:00Z
+Vakoun Issouf Bayo,Côte d'Ivoire,F,5.5,,,,0.9,,,,,2025-12-24T17:30:00Z
+Allan Okello,Uganda,M,5.0,,,,0.9,,,,,2025-12-23T20:00:00Z
+Anthony Mandrea,Algeria,G,4.5,,,,0.9,,,,,2025-12-24T15:00:00Z
+Sipho Mbule,South Africa,M,5.0,2.0,2.0,1.0,0.8,,,,,2025-12-22T17:00:00Z
+Mahamadou Doumbia,Mali,M,5.0,1.0,1.0,0.0,0.8,,,,,2025-12-22T14:00:00Z
+Mamadou Doumbia,Mali,F,5.5,0.0,0.0,0.0,0.8,,,,,2025-12-22T14:00:00Z
+Chico Banza,Angola,F,5.5,0.0,0.0,0.0,0.8,,,,,2025-12-22T17:00:00Z
+Evidence Makgopa,South Africa,F,5.0,0.0,0.0,0.0,0.8,,,,,2025-12-22T17:00:00Z
+Marwan Attia,Egypt,M,7.5,,,,0.8,,,,,2025-12-22T20:00:00Z
+Bazoumana Touré,Côte d'Ivoire,M,7.5,,,,0.8,,,,,2025-12-24T17:30:00Z
+Geny Catamo,Mozambique,M,7.0,,,,0.8,,,,,2025-12-24T17:30:00Z
+Danny Namaso,Cameroon,F,5.5,,,,0.8,,,,,2025-12-24T20:00:00Z
+Osama Faisal,Egypt,F,5.5,,,,0.8,,,,,2025-12-22T20:00:00Z
+Frank Magri,Cameroon,F,5.5,,,,0.8,,,,,2025-12-24T20:00:00Z
+Hossam Abdelmaguid,Egypt,D,5.0,,,,0.8,,,,,2025-12-22T20:00:00Z
+Loyce  Mbaba,Gabon,G,5.0,,,,0.8,,,,,2025-12-24T20:00:00Z
+Nathanaël Mbuku,DR Congo,F,5.0,,,,0.8,,,,,2025-12-23T12:30:00Z
+Zineddine Belaid,Algeria,D,4.5,,,,0.8,,,,,2025-12-24T15:00:00Z
+Igoh Ogbu,Nigeria,D,4.5,,,,0.8,,,,,2025-12-23T17:30:00Z
+Denis Onyango,Uganda,G,4.5,,,,0.8,,,,,2025-12-23T20:00:00Z
+Jesús Owono,Equatorial Guinea,G,4.5,,,,0.8,,,,,2025-12-24T12:30:00Z
+Mohamed Koné,Côte d'Ivoire,G,4.0,,,,0.8,,,,,2025-12-24T17:30:00Z
+Goitseone Phoko,Botswana,G,4.0,,,,0.8,,,,,2025-12-23T15:00:00Z
+Edouard Sombang,Cameroon,G,4.0,,,,0.8,,,,,2025-12-24T20:00:00Z
+Faïz Selemani,Comoros,F,5.5,7.0,7.0,1.0,0.7,,,,,2025-12-21T19:00:00Z
+Abdoulaye Diaby,Mali,D,5.0,5.0,5.0,1.0,0.7,,,,,2025-12-22T14:00:00Z
+Oussama Targhalline,Morocco,M,6.5,0.0,0.0,0.0,0.7,,,,,2025-12-21T19:00:00Z
+Elias Mokwana,South Africa,M,5.0,0.0,0.0,0.0,0.7,,,,,2025-12-22T17:00:00Z
+Neblú,Angola,G,5.0,0.0,0.0,0.0,0.7,,,,,2025-12-22T17:00:00Z
+Tholo Thabang Matuludi,South Africa,D,4.0,0.0,0.0,0.0,0.7,,,,,2025-12-22T17:00:00Z
+Brian Cipenga,DR Congo,F,5.5,,,,0.7,,,,,2025-12-23T12:30:00Z
+Rogers Mato,Uganda,F,5.5,,,,0.7,,,,,2025-12-23T20:00:00Z
+Cheick Tidiane Sabaly,Senegal,F,5.5,,,,0.7,,,,,2025-12-23T15:00:00Z
+Chidozie Awaziem,Nigeria,D,5.0,,,,0.7,,,,,2025-12-23T17:30:00Z
+Steve Mounié,Benin,F,5.0,,,,0.7,,,,,2025-12-23T12:30:00Z
+Mamadou Lamine Camara,Senegal,M,4.5,,,,0.7,,,,,2025-12-23T15:00:00Z
+Tochukwu Nnadi,Nigeria,M,4.5,,,,0.7,,,,,2025-12-23T17:30:00Z
+Mohamed Abdelrahman,Sudan,F,4.5,,,,0.7,,,,,2025-12-24T15:00:00Z
+Guima,Mozambique,M,4.0,,,,0.7,,,,,2025-12-24T17:30:00Z
+Godairone Modingwane,Botswana,M,4.0,,,,0.7,,,,,2025-12-23T15:00:00Z
+Saturnin Allagbe,Benin,G,4.0,,,,0.7,,,,,2025-12-23T12:30:00Z
+Yannick Pandor,Comoros,G,5.0,8.0,8.0,1.0,0.6,,,,,2025-12-21T19:00:00Z
+Gaoussou Diakite,Mali,F,5.0,0.0,0.0,0.0,0.6,,,,,2025-12-22T14:00:00Z
+Mamadou Camara,Mali,M,5.0,0.0,0.0,0.0,0.6,,,,,2025-12-22T14:00:00Z
+Sipho Chaine,South Africa,G,4.5,0.0,0.0,0.0,0.6,,,,,2025-12-22T17:00:00Z
+Munir El Kajoui,Morocco,G,4.5,0.0,0.0,0.0,0.6,,,,,2025-12-21T19:00:00Z
+Kabaso Chongo,Zambia,D,4.0,0.0,0.0,0.0,0.6,,,,,2025-12-22T14:00:00Z
+Ricardo Goss,South Africa,G,4.0,0.0,0.0,0.0,0.6,,,,,2025-12-22T17:00:00Z
+Nathan Gassama,Mali,D,4.0,0.0,0.0,0.0,0.6,,,,,2025-12-22T14:00:00Z
+Tó Carneiro,Angola,D,5.0,-1.0,-1.0,1.0,0.6,,,,,2025-12-22T17:00:00Z
+Ngal'ayel Mukau,DR Congo,M,7.5,,,,0.6,,,,,2025-12-23T12:30:00Z
+Christian Kofane,Cameroon,F,7.5,,,,0.6,,,,,2025-12-24T20:00:00Z
+Lassina Traoré,Burkina Faso,F,7.5,,,,0.6,,,,,2025-12-24T12:30:00Z
+Ousseni Bouda,Burkina Faso,F,5.5,,,,0.6,,,,,2025-12-24T12:30:00Z
+Luís Asué,Equatorial Guinea,F,5.5,,,,0.6,,,,,2025-12-24T12:30:00Z
+Mehdi Dorval,Algeria,M,5.0,,,,0.6,,,,,2025-12-24T15:00:00Z
+Mahmoud Saber,Egypt,M,5.0,,,,0.6,,,,,2025-12-22T20:00:00Z
+Farid Ouedraogo,Burkina Faso,G,5.0,,,,0.6,,,,,2025-12-24T12:30:00Z
+Elvis Chipezeze,Zimbabwe,G,4.5,,,,0.6,,,,,2025-12-22T20:00:00Z
+Mohamed Ismail,Egypt,D,4.5,,,,0.6,,,,,2025-12-22T20:00:00Z
+Mohamed Sobhi,Egypt,G,4.0,,,,0.6,,,,,2025-12-22T20:00:00Z
+Abdul Suleiman,Tanzania,F,4.0,,,,0.6,,,,,2025-12-23T17:30:00Z
+Aamir Abdallah,Sudan,M,4.0,,,,0.6,,,,,2025-12-24T15:00:00Z
+Ahmed Bakari Pipino,Tanzania,M,4.0,,,,0.6,,,,,2025-12-23T17:30:00Z
+Omaatla Kebatho,Botswana,F,4.0,,,,0.6,,,,,2025-12-23T15:00:00Z
+Willard Mwanza,Zambia,G,4.5,10.0,10.0,1.0,0.5,,,,,2025-12-22T14:00:00Z
+Yannis Kari,Comoros,D,4.0,2.0,2.0,1.0,0.5,,,,,2025-12-21T19:00:00Z
+Kings Kangwa,Zambia,M,5.0,1.0,1.0,1.0,0.5,,,,,2025-12-22T14:00:00Z
+Tshepang Moremi,South Africa,M,4.5,0.0,0.0,0.0,0.5,,,,,2025-12-22T17:00:00Z
+Raouf Mroivili,Comoros,M,4.0,0.0,0.0,0.0,0.5,,,,,2025-12-21T19:00:00Z
+Idris Mohamed,Comoros,D,4.0,0.0,0.0,0.0,0.5,,,,,2025-12-21T19:00:00Z
+Mario Stroeykens,DR Congo,M,7.0,,,,0.5,,,,,2025-12-23T12:30:00Z
+Abdoulaye Seck,Senegal,D,5.0,,,,0.5,,,,,2025-12-23T15:00:00Z
+Khaled Sobhi,Egypt,D,5.0,,,,0.5,,,,,2025-12-22T20:00:00Z
+Ibrahim Hamad,Tanzania,D,5.0,,,,0.5,,,,,2025-12-23T17:30:00Z
+Feisal Salum,Tanzania,M,5.0,,,,0.5,,,,,2025-12-23T17:30:00Z
+Mohamed Belhadj Mahmoud,Tunisia,M,5.0,,,,0.5,,,,,2025-12-23T20:00:00Z
+Kilian Nikièma,Burkina Faso,G,4.5,,,,0.5,,,,,2025-12-24T12:30:00Z
+Steve Kapuadi,DR Congo,D,4.5,,,,0.5,,,,,2025-12-23T12:30:00Z
+Youssef Belammari,Morocco,D,4.5,,,,0.5,,,,,2025-12-21T19:00:00Z
+Divine Lunga,Zimbabwe,D,4.5,,,,0.5,,,,,2025-12-22T20:00:00Z
+Keagile Kgosipula,Botswana,G,4.5,,,,0.5,,,,,2025-12-23T15:00:00Z
+Carlos Akapo,Equatorial Guinea,D,4.5,,,,0.5,,,,,2025-12-24T12:30:00Z
+Tawanda Chirewa,Zimbabwe,M,4.5,,,,0.5,,,,,2025-12-22T20:00:00Z
+Salim Jamal Magoola,Uganda,G,4.5,,,,0.5,,,,,2025-12-23T20:00:00Z
+Ali Abdallah Abu-Eshrein,Sudan,G,4.5,,,,0.5,,,,,2025-12-24T15:00:00Z
+Elio Capradossi,Uganda,D,4.0,,,,0.5,,,,,2025-12-23T20:00:00Z
+Oussama Benbot,Algeria,G,4.0,,,,0.5,,,,,2025-12-24T15:00:00Z
+Tamimou Ouorou,Benin,D,4.0,,,,0.5,,,,,2025-12-23T12:30:00Z
+Walieldin Khidir,Sudan,M,4.0,,,,0.5,,,,,2025-12-24T15:00:00Z
+Sabri Ben Hessen,Tunisia,G,4.0,,,,0.5,,,,,2025-12-23T20:00:00Z
+Mothusi Cooper,Botswana,M,4.0,,,,0.5,,,,,2025-12-23T15:00:00Z
+Salaheldin Adil,Sudan,M,4.0,,,,0.5,,,,,2025-12-24T15:00:00Z
+Charles Ondo,Equatorial Guinea,D,4.0,,,,0.5,,,,,2025-12-24T12:30:00Z
+Monty Enosa,Botswana,M,4.0,,,,0.5,,,,,2025-12-23T15:00:00Z
+Benson Sakala,Zambia,M,4.5,5.0,5.0,1.0,0.4,,,,,2025-12-22T14:00:00Z
+Lubambo Musonda,Zambia,M,5.0,3.0,3.0,1.0,0.4,,,,,2025-12-22T14:00:00Z
+Miguel Changa Chaiwa,Zambia,M,4.5,3.0,3.0,1.0,0.4,,,,,2025-12-22T14:00:00Z
+Samukelo Kabini,South Africa,D,5.0,0.0,0.0,0.0,0.4,,,,,2025-12-22T17:00:00Z
+Khulumani Ndamane,South Africa,D,4.5,0.0,0.0,0.0,0.4,,,,,2025-12-22T17:00:00Z
+Pedro Bondo,Angola,D,4.5,0.0,0.0,0.0,0.4,,,,,2025-12-22T17:00:00Z
+Antonio Signori Dominique,Angola,G,4.5,0.0,0.0,0.0,0.4,,,,,2025-12-22T17:00:00Z
+Lawrence Mulenga,Zambia,G,4.0,0.0,0.0,0.0,0.4,,,,,2025-12-22T14:00:00Z
+Mehdi Al Harrar,Morocco,G,4.0,0.0,0.0,0.0,0.4,,,,,2025-12-21T19:00:00Z
+Iyad Mohamed,Comoros,M,4.0,0.0,0.0,1.0,0.4,,,,,2025-12-21T19:00:00Z
+Adel Anzimati-Aboudou,Comoros,G,4.0,0.0,0.0,0.0,0.4,,,,,2025-12-21T19:00:00Z
+Ismael Diawara,Mali,G,4.0,0.0,0.0,0.0,0.4,,,,,2025-12-22T14:00:00Z
+Hamdy Fathy,Egypt,M,7.0,,,,0.4,,,,,2025-12-22T20:00:00Z
+Mostafa Fathy,Egypt,M,7.0,,,,0.4,,,,,2025-12-22T20:00:00Z
+Olivier Verdon,Benin,D,5.0,,,,0.4,,,,,2025-12-23T12:30:00Z
+Salah Mohsen,Egypt,F,5.0,,,,0.4,,,,,2025-12-22T20:00:00Z
+Anthony Oyono,Gabon,D,5.0,,,,0.4,,,,,2025-12-24T20:00:00Z
+Mortadha Ben Ouanes,Tunisia,M,5.0,,,,0.4,,,,,2025-12-23T20:00:00Z
+Mohamed Ben Ali,Tunisia,D,5.0,,,,0.4,,,,,2025-12-23T20:00:00Z
+Ismahila Ouédraogo,Burkina Faso,M,5.0,,,,0.4,,,,,2025-12-24T12:30:00Z
+Yohan Roche,Benin,D,5.0,,,,0.4,,,,,2025-12-23T12:30:00Z
+Mohamed Husseini,Tanzania,D,5.0,,,,0.4,,,,,2025-12-23T17:30:00Z
+Dokou Dodo,Benin,M,5.0,,,,0.4,,,,,2025-12-23T12:30:00Z
+Ahmed Eid,Egypt,D,5.0,,,,0.4,,,,,2025-12-22T20:00:00Z
+Saidou Simporé,Burkina Faso,D,5.0,,,,0.4,,,,,2025-12-24T12:30:00Z
+Cyriel Dessers,Nigeria,F,5.0,,,,0.4,,,,,2025-12-23T17:30:00Z
+Adamo Nagalo,Burkina Faso,D,5.0,,,,0.4,,,,,2025-12-24T12:30:00Z
+Aziz Kayondo,Uganda,D,4.5,,,,0.4,,,,,2025-12-23T20:00:00Z
+Armel Junior Zohouri,Côte d'Ivoire,D,4.5,,,,0.4,,,,,2025-12-24T17:30:00Z
+Knowledge Musona,Zimbabwe,M,4.5,,,,0.4,,,,,2025-12-22T20:00:00Z
+Mohamed Saeed Ahmed,Sudan,D,4.5,,,,0.4,,,,,2025-12-24T15:00:00Z
+Ernan,Mozambique,G,4.5,,,,0.4,,,,,2025-12-24T17:30:00Z
+Edson Mexer,Mozambique,D,4.5,,,,0.4,,,,,2025-12-24T17:30:00Z
+Thatayaone Ditlhokwe,Botswana,D,4.5,,,,0.4,,,,,2025-12-23T15:00:00Z
+Eddie Afonso,Angola,D,4.5,,,,0.4,,,,,2025-12-22T17:00:00Z
+Aitor Embela Gil,Equatorial Guinea,G,4.5,,,,0.4,,,,,2025-12-24T12:30:00Z
+Simon Ngapandouetnbu,Cameroon,G,4.0,,,,0.4,,,,,2025-12-24T20:00:00Z
+Ahmed Yousif Tabanja,Sudan,D,4.0,,,,0.4,,,,,2025-12-24T15:00:00Z
+Iddi Selemani,Tanzania,F,4.0,,,,0.4,,,,,2025-12-23T17:30:00Z
+Olebogeng Ramotse,Botswana,M,4.0,,,,0.4,,,,,2025-12-23T15:00:00Z
+Stoppila Sunzu,Zambia,D,4.0,,,,0.4,,,,,2025-12-22T14:00:00Z
+Mohamed Abooja,Sudan,G,4.0,,,,0.4,,,,,2025-12-24T15:00:00Z
+Jonah Fabisch,Zimbabwe,M,4.0,,,,0.4,,,,,2025-12-22T20:00:00Z
+Alford Velaphi,Botswana,D,4.0,,,,0.4,,,,,2025-12-23T15:00:00Z
+Manuel Sapunga,Equatorial Guinea,G,4.0,,,,0.4,,,,,2025-12-24T12:30:00Z
+Ammar Taifour,Sudan,M,4.0,,,,0.4,,,,,2025-12-24T15:00:00Z
+John Robia,Sudan,F,4.0,,,,0.4,,,,,2025-12-24T15:00:00Z
+Bakhit Khamis,Sudan,D,4.0,,,,0.4,,,,,2025-12-24T15:00:00Z
+Segolame Boy,Botswana,M,4.0,,,,0.4,,,,,2025-12-23T15:00:00Z
+Diogo Calila,Mozambique,M,4.0,,,,0.4,,,,,2025-12-24T17:30:00Z
+Awad Zayed,Sudan,D,4.0,,,,0.4,,,,,2025-12-24T15:00:00Z
+Noureddine Farhati,Tunisia,G,4.0,,,,0.4,,,,,2025-12-23T20:00:00Z
+Néstor Senra,Equatorial Guinea,D,4.0,,,,0.4,,,,,2025-12-24T12:30:00Z
+Hussein Masalanga,Tanzania,G,4.0,,,,0.4,,,,,2025-12-23T17:30:00Z
+Oscar Cherene,Mozambique,F,4.0,,,,0.4,,,,,2025-12-24T17:30:00Z
+Michael Ngaah,Equatorial Guinea,D,4.0,,,,0.4,,,,,2025-12-24T12:30:00Z
+Mathews Banda,Zambia,D,4.0,6.0,6.0,1.0,0.3,,,,,2025-12-22T14:00:00Z
+Zaydou Youssouf,Comoros,M,5.0,3.0,3.0,1.0,0.3,,,,,2025-12-21T19:00:00Z
+Benjaloud Youssouf,Comoros,D,4.5,3.0,3.0,1.0,0.3,,,,,2025-12-21T19:00:00Z
+Myziane Maolida,Comoros,M,5.0,1.0,1.0,0.0,0.3,,,,,2025-12-21T19:00:00Z
+Randy Nteka,Angola,F,5.0,0.0,0.0,0.0,0.3,,,,,2025-12-22T17:00:00Z
+Núrio Fortuna,Angola,D,4.5,0.0,0.0,0.0,0.3,,,,,2025-12-22T17:00:00Z
+Mamadou Samassa,Mali,G,4.0,0.0,0.0,0.0,0.3,,,,,2025-12-22T14:00:00Z
+Rayan Lutin,Comoros,M,4.0,0.0,0.0,0.0,0.3,,,,,2025-12-21T19:00:00Z
+Francis Mwansa,Zambia,G,4.0,0.0,0.0,0.0,0.3,,,,,2025-12-22T14:00:00Z
+Salim Ben Boina,Comoros,G,4.0,0.0,0.0,0.0,0.3,,,,,2025-12-21T19:00:00Z
+El Fardou Ben,Comoros,F,4.0,0.0,0.0,0.0,0.3,,,,,2025-12-21T19:00:00Z
+Ismaël Boura,Comoros,D,5.0,-1.0,-1.0,1.0,0.3,,,,,2025-12-21T19:00:00Z
+Siphephelo Sithole,South Africa,M,5.0,-1.0,-1.0,1.0,0.3,,,,,2025-12-22T17:00:00Z
+Christopher Operi,Côte d'Ivoire,D,5.0,,,,0.3,,,,,2025-12-24T17:30:00Z
+Nader Ghandri,Tunisia,D,5.0,,,,0.3,,,,,2025-12-23T20:00:00Z
+Usman Mohammed,Nigeria,M,5.0,,,,0.3,,,,,2025-12-23T17:30:00Z
+Salim Fago Lawal,Nigeria,F,5.0,,,,0.3,,,,,2025-12-23T17:30:00Z
+Gerzino Nyamsi,Cameroon,D,5.0,,,,0.3,,,,,2025-12-24T20:00:00Z
+Ambina Fidèle Brice,Cameroon,M,5.0,,,,0.3,,,,,2025-12-24T20:00:00Z
+Samuel Kotto,Cameroon,D,5.0,,,,0.3,,,,,2025-12-24T20:00:00Z
+Patrick Soko,Cameroon,F,5.0,,,,0.3,,,,,2025-12-24T20:00:00Z
+Bruno Langa,Mozambique,D,5.0,,,,0.3,,,,,2025-12-24T17:30:00Z
+Simon Msuva,Tanzania,F,5.0,,,,0.3,,,,,2025-12-23T17:30:00Z
+Jordan Obita,Uganda,D,5.0,,,,0.3,,,,,2025-12-23T20:00:00Z
+Johann Obiang,Gabon,D,5.0,,,,0.3,,,,,2025-12-24T20:00:00Z
+David Kiki,Benin,D,5.0,,,,0.3,,,,,2025-12-23T12:30:00Z
+Urie-Michel Mboula,Gabon,D,4.5,,,,0.3,,,,,2025-12-24T20:00:00Z
+Abdoul Rachid Ayinde,Burkina Faso,D,4.5,,,,0.3,,,,,2025-12-24T12:30:00Z
+Abdoul Rachid Moumini,Benin,D,4.5,,,,0.3,,,,,2025-12-23T12:30:00Z
+Mustafa Karshoum,Sudan,D,4.5,,,,0.3,,,,,2025-12-24T15:00:00Z
+Khalid Aucho,Uganda,M,4.5,,,,0.3,,,,,2025-12-23T20:00:00Z
+Kabelo Seakanyeng,Botswana,M,4.5,,,,0.3,,,,,2025-12-23T15:00:00Z
+Tebogo Kopelang,Botswana,D,4.5,,,,0.3,,,,,2025-12-23T15:00:00Z
+Josete Miranda,Equatorial Guinea,F,4.5,,,,0.3,,,,,2025-12-24T12:30:00Z
+Feliciano Jone Nenê,Mozambique,D,4.5,,,,0.3,,,,,2025-12-24T17:30:00Z
+Wilson Nangu,Tanzania,D,4.5,,,,0.3,,,,,2025-12-23T17:30:00Z
+Morice Abraham,Tanzania,M,4.5,,,,0.3,,,,,2025-12-23T17:30:00Z
+Tumisang Orebonye,Botswana,F,4.5,,,,0.3,,,,,2025-12-23T15:00:00Z
+Charlemagne Azongnitode,Benin,D,4.0,,,,0.3,,,,,2025-12-23T12:30:00Z
+Washington Arubi,Zimbabwe,G,4.0,,,,0.3,,,,,2025-12-22T20:00:00Z
+Edmilson Gabriel Dove,Mozambique,D,4.0,,,,0.3,,,,,2025-12-24T17:30:00Z
+Mosha Gaolaolwe,Botswana,D,4.0,,,,0.3,,,,,2025-12-23T15:00:00Z
+Yaser Awad Boshara,Sudan,D,4.0,,,,0.3,,,,,2025-12-24T15:00:00Z
+Andy Rinomhota,Zimbabwe,M,4.0,,,,0.3,,,,,2025-12-22T20:00:00Z
+Alec Mudimu,Zimbabwe,D,4.0,,,,0.3,,,,,2025-12-22T20:00:00Z
+Al-Gozoli Nooh,Sudan,M,4.0,,,,0.3,,,,,2025-12-24T15:00:00Z
+Byaruhanga Bobosi,Uganda,M,4.0,,,,0.3,,,,,2025-12-23T20:00:00Z
+Fernando Chamboco,Mozambique,D,4.0,,,,0.3,,,,,2025-12-24T17:30:00Z
+Amas Obasogie,Nigeria,G,4.0,,,,0.3,,,,,2025-12-23T17:30:00Z
+Thabo Leinanyane,Botswana,D,4.0,,,,0.3,,,,,2025-12-23T15:00:00Z
+Anse Ngoubi Demba,Gabon,G,4.0,,,,0.3,,,,,2025-12-24T20:00:00Z
+Bakari Mwamnyeto,Tanzania,D,4.0,,,,0.3,,,,,2025-12-23T17:30:00Z
+Monged Elneel,Sudan,G,4.0,,,,0.3,,,,,2025-12-24T15:00:00Z
+Prosper Padera,Zimbabwe,M,4.0,,,,0.3,,,,,2025-12-22T20:00:00Z
+Muhamed Tia Asad,Sudan,F,4.0,,,,0.3,,,,,2025-12-24T15:00:00Z
+Thatayaone Kgamanyane,Botswana,M,4.0,,,,0.3,,,,,2025-12-23T15:00:00Z
+Jannick Buyla,Equatorial Guinea,M,4.0,,,,0.3,,,,,2025-12-24T12:30:00Z
+Melque Alexandre,Mozambique,F,4.0,,,,0.3,,,,,2025-12-24T17:30:00Z
+James Bogere,Uganda,F,4.0,,,,0.3,,,,,2025-12-23T20:00:00Z
+Mick Onfia,Gabon,D,4.0,,,,0.3,,,,,2025-12-24T20:00:00Z
+Pascal Phiri,Zambia,F,4.0,,,,0.3,,,,,2025-12-22T14:00:00Z
+François Bekale,Gabon,G,4.0,,,,0.3,,,,,2025-12-24T20:00:00Z
+Thabo Maponda,Botswana,F,4.0,,,,0.3,,,,,2025-12-23T15:00:00Z
+Martín Mapisa,Zimbabwe,G,4.0,,,,0.3,,,,,2025-12-22T20:00:00Z
+Isheanasu Mauchi,Zimbabwe,D,4.0,,,,0.3,,,,,2025-12-22T20:00:00Z
+Ishmael Wadi,Zimbabwe,F,4.0,,,,0.3,,,,,2025-12-22T20:00:00Z
+Isaac Muleme,Uganda,D,4.0,,,,0.3,,,,,2025-12-23T20:00:00Z
+Musa Ali Hussein,Sudan,F,4.0,,,,0.3,,,,,2025-12-24T15:00:00Z
+Nanani Infren,Mozambique,D,4.0,,,,0.3,,,,,2025-12-24T17:30:00Z
+Dominic Chanda,Zambia,D,4.0,5.0,5.0,1.0,0.2,,,,,2025-12-22T14:00:00Z
+Owen Tembo,Zambia,M,4.5,4.0,4.0,1.0,0.2,,,,,2025-12-22T14:00:00Z
+Kassim M'Dahoma,Comoros,D,5.0,1.0,1.0,0.0,0.2,,,,,2025-12-21T19:00:00Z
+Yacine Bourhane,Comoros,M,5.0,1.0,1.0,0.0,0.2,,,,,2025-12-21T19:00:00Z
+Kenan Toibibou,Comoros,D,4.5,1.0,1.0,1.0,0.2,,,,,2025-12-21T19:00:00Z
+Ahmed Soilihi,Comoros,D,4.0,1.0,1.0,1.0,0.2,,,,,2025-12-21T19:00:00Z
+Saïd Bakari,Comoros,D,5.0,0.0,0.0,0.0,0.2,,,,,2025-12-21T19:00:00Z
+Mário Balbúrdia,Angola,M,5.0,0.0,0.0,0.0,0.2,,,,,2025-12-22T17:00:00Z
+Manuel Keliano,Angola,M,5.0,0.0,0.0,0.0,0.2,,,,,2025-12-22T17:00:00Z
+Ary Papel,Angola,F,5.0,0.0,0.0,0.0,0.2,,,,,2025-12-22T17:00:00Z
+Abdel Hakim Abdallah,Comoros,D,4.5,0.0,0.0,0.0,0.2,,,,,2025-12-21T19:00:00Z
+Aboubacar Ali Abdallah,Comoros,F,4.5,0.0,0.0,0.0,0.2,,,,,2025-12-21T19:00:00Z
+Aymeric Ahmed,Comoros,M,4.5,0.0,0.0,0.0,0.2,,,,,2025-12-21T19:00:00Z
+Wilson Chisala,Zambia,M,4.5,0.0,0.0,0.0,0.2,,,,,2025-12-22T14:00:00Z
+Zaïd Amir,Comoros,F,4.5,0.0,0.0,0.0,0.2,,,,,2025-12-21T19:00:00Z
+Joseph Sabobo,Zambia,M,4.5,0.0,0.0,0.0,0.2,,,,,2025-12-22T14:00:00Z
+Rémy Vita,Comoros,D,4.5,0.0,0.0,0.0,0.2,,,,,2025-12-21T19:00:00Z
+Obino Chisala,Zambia,M,4.5,0.0,0.0,0.0,0.2,,,,,2025-12-22T14:00:00Z
+David Hamansenya,Zambia,D,4.0,0.0,0.0,0.0,0.2,,,,,2025-12-22T14:00:00Z
+Hugo Marques,Angola,G,4.0,0.0,0.0,1.0,0.2,,,,,2025-12-22T17:00:00Z
+Kelvin John,Tanzania,F,5.0,,,,0.2,,,,,2025-12-23T17:30:00Z
+Santiago Bocari Eneme,Equatorial Guinea,M,5.0,,,,0.2,,,,,2025-12-24T12:30:00Z
+Teddy Averlant,Gabon,M,5.0,,,,0.2,,,,,2025-12-24T20:00:00Z
+Tawanda Maswanhise,Zimbabwe,F,5.0,,,,0.2,,,,,2025-12-22T20:00:00Z
+Samadou Attidjikou,Benin,M,5.0,,,,0.2,,,,,2025-12-23T12:30:00Z
+Alfons Amade,Mozambique,M,5.0,,,,0.2,,,,,2025-12-24T17:30:00Z
+Eric Bocoum Baboue,Gabon,F,5.0,,,,0.2,,,,,2025-12-24T20:00:00Z
+Haji Mnoga,Tanzania,M,5.0,,,,0.2,,,,,2025-12-23T17:30:00Z
+Stanley Ratifo,Mozambique,F,5.0,,,,0.2,,,,,2025-12-24T17:30:00Z
+Baba Alhassan,Uganda,M,5.0,,,,0.2,,,,,2025-12-23T20:00:00Z
+Yasir Mozamil,Sudan,F,5.0,,,,0.2,,,,,2025-12-24T15:00:00Z
+Cédric Badolo,Burkina Faso,M,5.0,,,,0.2,,,,,2025-12-24T12:30:00Z
+Loren Zúñiga,Equatorial Guinea,F,5.0,,,,0.2,,,,,2025-12-24T12:30:00Z
+Alex Moucketou-Moussounda,Gabon,D,5.0,,,,0.2,,,,,2025-12-24T20:00:00Z
+Tarryn Allarakhia,Tanzania,M,4.5,,,,0.2,,,,,2025-12-23T17:30:00Z
+Manuel Kambala,Mozambique,M,4.5,,,,0.2,,,,,2025-12-24T17:30:00Z
+Alphonce Msanga,Tanzania,M,4.5,,,,0.2,,,,,2025-12-23T17:30:00Z
+Mohamed Eisa,Sudan,F,4.5,,,,0.2,,,,,2025-12-24T15:00:00Z
+Toby Sibbick,Uganda,D,4.5,,,,0.2,,,,,2025-12-23T20:00:00Z
+Adam Akimey,Benin,M,4.5,,,,0.2,,,,,2025-12-23T12:30:00Z
+Jude Ssemugabi,Uganda,F,4.5,,,,0.2,,,,,2025-12-23T20:00:00Z
+Clench Loufilou,Gabon,M,4.5,,,,0.2,,,,,2025-12-24T20:00:00Z
+Prince Dube,Zimbabwe,F,4.5,,,,0.2,,,,,2025-12-22T20:00:00Z
+Dominguês Pelembe,Mozambique,M,4.5,,,,0.2,,,,,2025-12-24T17:30:00Z
+Alex Masogo,Equatorial Guinea,M,4.5,,,,0.2,,,,,2025-12-24T12:30:00Z
+Abo Eisa,Sudan,F,4.5,,,,0.2,,,,,2025-12-24T15:00:00Z
+Melvyn Lorenzen,Uganda,F,4.5,,,,0.2,,,,,2025-12-23T20:00:00Z
+Charles M'Mombwa,Tanzania,M,4.5,,,,0.2,,,,,2025-12-23T17:30:00Z
+Witi,Mozambique,M,4.5,,,,0.2,,,,,2025-12-24T17:30:00Z
+José Machín,Equatorial Guinea,M,4.5,,,,0.2,,,,,2025-12-24T12:30:00Z
+Munashe Garananga,Zimbabwe,D,4.5,,,,0.2,,,,,2025-12-22T20:00:00Z
+Jodel Dossou,Benin,F,4.5,,,,0.2,,,,,2025-12-23T12:30:00Z
+Esteban Orozco,Equatorial Guinea,D,4.5,,,,0.2,,,,,2025-12-24T12:30:00Z
+Matteo Ahlinvi,Benin,F,4.5,,,,0.2,,,,,2025-12-23T12:30:00Z
+Rodrigue Kossi,Benin,M,4.5,,,,0.2,,,,,2025-12-23T12:30:00Z
+Bill Antonio,Zimbabwe,F,4.5,,,,0.2,,,,,2025-12-22T20:00:00Z
+Rodolfo Aloko,Benin,M,4.5,,,,0.2,,,,,2025-12-23T12:30:00Z
+Mariano Ahouangbo,Benin,M,4.5,,,,0.2,,,,,2025-12-23T12:30:00Z
+Kelvin Nashon,Tanzania,M,4.5,,,,0.2,,,,,2025-12-23T17:30:00Z
+Alex Balboa,Equatorial Guinea,M,4.5,,,,0.2,,,,,2025-12-24T12:30:00Z
+Razack Rachidou,Benin,M,4.5,,,,0.2,,,,,2025-12-23T12:30:00Z
+Romaric Amoussou,Benin,M,4.5,,,,0.2,,,,,2025-12-23T12:30:00Z
+Timothy Awany,Uganda,D,4.0,,,,0.2,,,,,2025-12-23T20:00:00Z
+Pascal Msindo,Tanzania,D,4.0,,,,0.2,,,,,2025-12-23T17:30:00Z
+Hilary Mukundane,Uganda,D,4.0,,,,0.2,,,,,2025-12-23T20:00:00Z
+Junior Zindoga,Zimbabwe,F,4.0,,,,0.2,,,,,2025-12-22T20:00:00Z
+Gerald Takwara,Zimbabwe,D,4.0,,,,0.2,,,,,2025-12-22T20:00:00Z
+Sean Fusire,Zimbabwe,M,4.0,,,,0.2,,,,,2025-12-22T20:00:00Z
+Lusajo Mwaikenda,Tanzania,D,4.0,,,,0.2,,,,,2025-12-23T17:30:00Z
+Mothusi Johnson,Botswana,D,4.0,,,,0.2,,,,,2025-12-23T15:00:00Z
+Emmanuel Jalai,Zimbabwe,D,4.0,,,,0.2,,,,,2025-12-22T20:00:00Z
+Gift Prosper Mphande,Zambia,D,4.0,,,,0.2,,,,,2025-12-22T14:00:00Z
+Zuberi Foba Masudi,Tanzania,G,4.0,,,,0.2,,,,,2025-12-23T17:30:00Z
+Simon Omossola,Cameroon,G,4.0,,,,0.2,,,,,2025-12-24T20:00:00Z
+Mohamed Abuaagla,Sudan,M,4.0,,,,0.2,,,,,2025-12-24T15:00:00Z
+Rogers Torach,Uganda,D,4.0,,,,0.2,,,,,2025-12-23T20:00:00Z
+Godknows Murwira,Zimbabwe,D,4.0,,,,0.2,,,,,2025-12-22T20:00:00Z
+Gilbert Baruti,Botswana,M,4.0,,,,0.2,,,,,2025-12-23T15:00:00Z
+Lebogang Ditsele,Botswana,M,4.0,,,,0.2,,,,,2025-12-23T15:00:00Z
+Uche Ikpeazu,Uganda,F,4.0,,,,0.2,,,,,2025-12-23T20:00:00Z
+Sheddy Barglan,Sudan,D,4.0,,,,0.2,,,,,2025-12-24T15:00:00Z
+Nickson Clement Kibabage,Tanzania,D,4.0,,,,0.2,,,,,2025-12-23T17:30:00Z
+Legason Nafiani Alionzi,Uganda,G,4.0,,,,0.2,,,,,2025-12-23T20:00:00Z
+Ivane Urrubal,Mozambique,G,4.0,,,,0.2,,,,,2025-12-24T17:30:00Z
+Kimiss,Mozambique,G,4.0,,,,0.2,,,,,2025-12-24T17:30:00Z
+Ronald Ssekiganda,Uganda,M,4.0,,,,0.2,,,,,2025-12-23T20:00:00Z
+Denis Omedi,Uganda,F,4.0,,,,0.2,,,,,2025-12-23T20:00:00Z
+Ivan Ahimbisibwe,Uganda,F,4.0,,,,0.2,,,,,2025-12-23T20:00:00Z
+Rodrigue Fassinou,Benin,D,4.0,,,,0.2,,,,,2025-12-23T12:30:00Z
+Mazin Mohamedein,Sudan,D,4.0,,,,0.2,,,,,2025-12-24T15:00:00Z
+Marvin Anieboh,Equatorial Guinea,D,4.0,,,,0.2,,,,,2025-12-24T12:30:00Z
+Shafik Nana Kwikiriza,Uganda,F,4.0,,,,0.2,,,,,2025-12-23T20:00:00Z
+Washington Navaya,Zimbabwe,F,4.0,,,,0.2,,,,,2025-12-22T20:00:00Z
+Reagan Mpande,Uganda,F,4.0,,,,0.2,,,,,2025-12-23T20:00:00Z
+Dorian Hanza,Equatorial Guinea,F,4.0,,,,0.2,,,,,2025-12-24T12:30:00Z
+Daniel Msendami,Zimbabwe,M,4.0,,,,0.2,,,,,2025-12-22T20:00:00Z
+Samaké Nze Bagnama,Gabon,M,4.0,,,,0.2,,,,,2025-12-24T20:00:00Z
+Jack Lahne,Zambia,F,4.5,0.0,0.0,0.0,0.1,,,,,2025-12-22T14:00:00Z
+Joseph Liteta,Zambia,M,4.5,0.0,0.0,0.0,0.1,,,,,2025-12-22T14:00:00Z
+David Simukonda,Zambia,M,4.5,0.0,0.0,0.0,0.1,,,,,2025-12-22T14:00:00Z
+Given Kalusa,Zambia,M,4.5,0.0,0.0,0.0,0.1,,,,,2025-12-22T14:00:00Z
+Eliya Mandanji,Zambia,F,4.5,0.0,0.0,0.0,0.1,,,,,2025-12-22T14:00:00Z
+Chamito Alfandega,Mozambique,F,5.0,,,,0.1,,,,,2025-12-24T17:30:00Z
+João Bonde,Mozambique,M,5.0,,,,0.1,,,,,2025-12-24T17:30:00Z
+Shavy Warren Babicka,Gabon,F,5.0,,,,0.1,,,,,2025-12-24T20:00:00Z
+Olatoundji Tessilimi,Benin,F,4.5,,,,0.1,,,,,2025-12-23T12:30:00Z
+Gislain Ahoudo,Benin,M,4.5,,,,0.1,,,,,2025-12-23T12:30:00Z
+Faisal Abdul Bangal,Mozambique,F,4.5,,,,0.1,,,,,2025-12-24T17:30:00Z
+Gape Mohutsiwa,Botswana,M,4.5,,,,0.1,,,,,2025-12-23T15:00:00Z
+Thabang Sesinyi,Botswana,F,4.5,,,,0.1,,,,,2025-12-23T15:00:00Z
+Gildo,Mozambique,F,4.5,,,,0.1,,,,,2025-12-24T17:30:00Z
+Gael Akogo Esono,Equatorial Guinea,M,4.5,,,,0.1,,,,,2025-12-24T12:30:00Z
+Khalid Habibu,Tanzania,M,4.5,,,,0.1,,,,,2025-12-23T17:30:00Z
+José Nabil,Equatorial Guinea,F,4.5,,,,0.1,,,,,2025-12-24T12:30:00Z
+Edlin Essang-Matouti,Gabon,F,4.5,,,,0.1,,,,,2025-12-24T20:00:00Z
+Keyns Abdala,Mozambique,M,4.5,,,,0.1,,,,,2025-12-24T17:30:00Z

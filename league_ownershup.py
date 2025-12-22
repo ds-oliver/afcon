@@ -102,11 +102,11 @@ round_players['league_cpt_pct'] = round_players['player_id'].map(player_captains
 
 round_players['league_owners'] = round_players['player_id'].map(player_owners)
 
-edited_df = round_players[['name','team','position', 'total_points', 'total_points', 'round_starter', 'owned_percentage', 'league_own_pct', 'league_start_pct', 'league_cpt_pct', 'league_owners', 'event_start_iso_utc']]
-edited_df.columns = ['Player', 'Team', 'Pos', 'Total Points', 'Round Points', 'Rnd Strt', 'Global Own %', 'League Own %', 'League Start %', 'League Cpt %', 'League Owners', 'Event Start Timestamp']
+edited_df = round_players[['name','team','position', 'price', 'total_points', 'total_points', 'round_starter', 'owned_percentage', 'league_own_pct', 'league_start_pct', 'league_cpt_pct', 'league_owners', 'event_start_iso_utc']]
+edited_df.columns = ['Player', 'Team', 'Pos', 'Price', 'Total Points', 'Round Points', 'Rnd Strt', 'Global Own %', 'League Own %', 'League Start %', 'League Cpt %', 'League Owners', 'Event Start Timestamp']
 
 edited_df['Rnd Strt'] = edited_df['Rnd Strt'].map({'starter': 1, 'substitute': 0})
 
-edited_df = edited_df.sort_values(by=['League Own %', 'League Start %', 'League Cpt %', 'Global Own %'], ascending=[False, False, False, False])
+edited_df = edited_df.sort_values(by=['League Own %', 'League Start %', 'League Cpt %', 'Global Own %', 'Total Points'], ascending=[False, False, False, False, False])
 
 edited_df.to_csv(f'data/afcon_fantasy_market_{round}_with_league_ownership.csv', index=False)
