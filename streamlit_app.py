@@ -52,11 +52,13 @@ if selected_team != 'All':
     filtered_df = filtered_df[filtered_df['Team'] == selected_team]
 
 # Display stats
-col1, col2, col3, col4 = st.columns(4)
+col1, col2, col3, col4, col5, col6 = st.columns(6)
 col1.metric("Total Players", len(filtered_df))
 col2.metric("Unique Teams", filtered_df['Team'].nunique())
 col3.metric("Unique Positions", filtered_df['Pos'].nunique())
-col4.metric("Avg League Own %", f"{filtered_df['League Own %'].mean():.1f}%")
+col4.metric("Players Owned", filtered_df[filtered_df['League Owners'].notna()]['Player'].nunique())
+col5.metric("Total Lge Own %", filtered_df[filtered_df['League Owners'].notna()]['League Own %'].sum()).round(2)
+col6.metric("Total Global Own %", filtered_df['Global Own %'].sum()).round(2)
 
 st.markdown("---")
 
