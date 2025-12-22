@@ -102,8 +102,8 @@ round_players['league_cpt_pct'] = round_players['player_id'].map(player_captains
 
 round_players['league_owners'] = round_players['player_id'].map(player_owners)
 
-edited_df = round_players[['name','team','position', 'total_points', 'total_points', 'owned_percentage', 'league_own_pct', 'league_start_pct', 'league_cpt_pct', 'league_owners']]
-edited_df.columns = ['Player', 'Team', 'Pos', 'Total Points', 'Round Points', 'Global Own %', 'League Own %', 'League Start %', 'League Cpt %', 'League Owners']
+edited_df = round_players[['name','team','position', 'total_points', 'total_points', 'owned_percentage', 'league_own_pct', 'league_start_pct', 'league_cpt_pct', 'league_owners', 'event_start_iso_utc']]
+edited_df.columns = ['Player', 'Team', 'Pos', 'Total Points', 'Round Points', 'Global Own %', 'League Own %', 'League Start %', 'League Cpt %', 'League Owners', 'Event Start Timestamp']
 
 
 
