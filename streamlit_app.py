@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import seaborn as sns
+from datetime import datetime, timedelta
 
 # Page configuration
 st.set_page_config(
@@ -40,14 +41,20 @@ st.sidebar.header("🔍 Filters")
 positions = ['All'] + sorted(df['Pos'].dropna().unique().tolist())
 selected_position = st.sidebar.selectbox("Position", positions)
 
+only_current_upcoming_game = st.sidebar.checkbox("Only Current Match", value=False)
+
 # Team filter
 teams = ['All'] + sorted(df['Team'].dropna().unique().tolist())
 selected_team = st.sidebar.selectbox("Team", teams)
+
+
 
 # Apply filters
 filtered_df = df.copy()
 if selected_position != 'All':
     filtered_df = filtered_df[filtered_df['Pos'] == selected_position]
+if only_current_upcoming_game:
+    filtered_df = filtered_df[(filtered_df['Event Start Timestamp'] > (datetime.now().isoformat() - timedelta(hours=2.5))) & (filtered_df['Event Start Timestamp'] < (datetime.now().isoformat() + timedelta(hours=1)))]
 if selected_team != 'All':
     filtered_df = filtered_df[filtered_df['Team'] == selected_team]
 
