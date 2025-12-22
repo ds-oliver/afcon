@@ -89,6 +89,8 @@ column_config = {
 # Prepare dataframe for display
 display_df = filtered_df.copy()
 
+display_df = display_df.drop(columns=['Event Start Timestamp'])
+
 # Create color map for gradient
 cm2 = sns.diverging_palette(0, 125, s=60, l=85, as_cmap=True)
 
